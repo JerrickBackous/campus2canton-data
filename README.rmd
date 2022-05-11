@@ -2,9 +2,11 @@
 title: "Campus 2 Canton App Overview"
 output: github_document
 ---
+# campus2canton-data
+Public repo for campus2canton data
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/JerrickBackous/college_team_analyzer/workflows/R-CMD-check/badge.svg)](https://github.com/JerrickBackous/college_team_analyzer/actions)
+[College Team App][![R-CMD-check](https://github.com/JerrickBackous/college_team_analyzer/workflows/R-CMD-check/badge.svg)](https://github.com/JerrickBackous/college_team_analyzer/actions)
 <!-- badges: end -->
 
 ```{r setup, include=FALSE}
