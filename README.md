@@ -8,44 +8,18 @@ Public repo for campus2canton data
 <!-- badges: start -->
 <!-- badges: end -->
 
-[![College Team
-App](https://github.com/JerrickBackous/college_team_analyzer/workflows/R-CMD-check/badge.svg)](https://github.com/JerrickBackous/college_team_analyzer/actions)
-[![College Coach
-App](https://github.com/JerrickBackous/college_coach_analyzer/workflows/R-CMD-check/badge.svg)](https://github.com/JerrickBackous/college_coach_analyzer/actions)
-
-| Data                | Status                                                                                                                |
-|:--------------------|:----------------------------------------------------------------------------------------------------------------------|
-| campus2canton-data  |                                                                                                                       |
-| Player Metric App   | \[![Player Metric App](https://github.com/JerrickBackous/metric_app/workflows/R-CMD-check/badge.svg)\]                |
-| Player Metric Table | \[![Player Metric Table](https://github.com/JerrickBackous/college_player_data_app/workflows/R-CMD-check/badge.svg)\] |
-
-## GitHub Documents
-
-This is an R Markdown format used for publishing markdown documents to
-GitHub. When you click the **Knit** button all R code chunks are run and
-a markdown file (.md) suitable for publishing to GitHub is generated.
-
-## Including Code
-
-You can include R code in the document as follows:
-
-``` r
-summary(cars)
-```
-
-    ##      speed           dist       
-    ##  Min.   : 4.0   Min.   :  2.00  
-    ##  1st Qu.:12.0   1st Qu.: 26.00  
-    ##  Median :15.0   Median : 36.00  
-    ##  Mean   :15.4   Mean   : 42.98  
-    ##  3rd Qu.:19.0   3rd Qu.: 56.00  
-    ##  Max.   :25.0   Max.   :120.00
-
-## Including Plots
-
-You can also embed plots, for example:
-
-![](README_files/figure-gfm/pressure-1.png)<!-- -->
-
-Note that the `echo = FALSE` parameter was added to the code chunk to
-prevent printing of the R code that generated the plot.
+| Data                | Status                                                                                                                          |
+|:--------------------|:--------------------------------------------------------------------------------------------------------------------------------|
+| campus2canton-data  |                                                                                                                                 |
+| Rankings App Tier 1 | \[![rankings_app](https://github.com/JerrickBackous/rankings_app/workflows/R-CMD-check/badge.svg)\]                             |
+| Rankings App Tier 2 | \[![rankings_app_with_freshmen](https://github.com/JerrickBackous/rankings_app_with_freshmen/workflows/R-CMD-check/badge.svg)\] |
+| ADP App             | \[![adp_app](https://github.com/JerrickBackous/adp_app/workflows/R-CMD-check/badge.svg)\]                                       |
+| ADP History App     | \[![adp_history_app](https://github.com/JerrickBackous/adp_history_app/workflows/R-CMD-check/badge.svg)\]                       |
+| Draft Prob App      | \[![draft_probability_app](https://github.com/JerrickBackous/draft_probability_app/workflows/R-CMD-check/badge.svg)\]           |
+| Player Metric App   | \[![metric_app](https://github.com/JerrickBackous/metric_app/workflows/R-CMD-check/badge.svg)\]                                 |
+| Player Metric Table | \[![college_player_data_app](https://github.com/JerrickBackous/college_player_data_app/workflows/R-CMD-check/badge.svg)\]       |
+| College Team App    | \[![college_team_analyzer](https://github.com/JerrickBackous/college_team_analyzer/workflows/R-CMD-check/badge.svg)\]           |
+| College Coach App   | \[![college_coach_analyzer](https://github.com/JerrickBackous/college_coach_analyzer/workflows/R-CMD-check/badge.svg)\]         |
+| College RYOE App    | \[![college_ryoe_app](https://github.com/JerrickBackous/college_ryoe_app/workflows/R-CMD-check/badge.svg)\]                     |
+| Player Summary App  | \[![player_summary_app](https://github.com/JerrickBackous/player_summary_app/workflows/R-CMD-check/badge.svg)\]                 |
+| Recruiting App      | \[![recruit_app](https://github.com/JerrickBackous/recruit_app/workflows/R-CMD-check/badge.svg)\]                               |
