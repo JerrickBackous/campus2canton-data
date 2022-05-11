@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 status <- tibble::tribble(
   ~Data, ~ Status, ~ Deployed,
   "campus2canton-data", "", "",
-  "college_data_updateR", "![college_data_updateR](https://github.com/JerrickBackous/college_data_updateR/workflows/update_college_player_data/badge.svg)", "![college_data_updateR](https://github.com/JerrickBackous/college_data_updateR/workflows/update_nfl_player_results/badge.svg)",
+  "college_data_updateR", "![college_data_updateR](https://github.com/JerrickBackous/college_data_updateR/workflows/Update College Player Data/badge.svg)", "![college_data_updateR](https://github.com/JerrickBackous/college_data_updateR/workflows/update_nfl_player_results/badge.svg)",
   "Rankings App Tier 1", "![rankings_app](https://github.com/JerrickBackous/rankings_app/workflows/R-CMD-check/badge.svg)", "![rankings_app](https://github.com/JerrickBackous/rankings_app/workflows/update_rankings/badge.svg)",
   "Rankings App Tier 2", "![rankings_app_with_freshmen](https://github.com/JerrickBackous/rankings_app_with_freshmen/workflows/R-CMD-check/badge.svg)", "![rankings_app_with_freshmen](https://github.com/JerrickBackous/rankings_app_with_freshmen/workflows/update_tier_2_rankings_shiny_app/badge.svg)",
   "ADP App", "![adp_app](https://github.com/JerrickBackous/adp_app/workflows/R-CMD-check/badge.svg)", "![adp_app](https://github.com/JerrickBackous/adp_app/workflows/update_adp_data/badge.svg)",
