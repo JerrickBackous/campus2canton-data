@@ -6,10 +6,18 @@ Campus 2 Canton App Overview
 Public repo for campus2canton data
 
 <!-- badges: start -->
-
-\[College Team
-App\]\[![R-CMD-check](https://github.com/JerrickBackous/college_team_analyzer/workflows/R-CMD-check/badge.svg)\](<https://github.com/JerrickBackous/college_team_analyzer/actions>)
 <!-- badges: end -->
+
+[![College Team
+App](https://github.com/JerrickBackous/college_team_analyzer/workflows/R-CMD-check/badge.svg)](https://github.com/JerrickBackous/college_team_analyzer/actions)
+[![College Coach
+App](https://github.com/JerrickBackous/college_coach_analyzer/workflows/R-CMD-check/badge.svg)](https://github.com/JerrickBackous/college_coach_analyzer/actions)
+
+| Data                | Status                                                                                                                |
+|:--------------------|:----------------------------------------------------------------------------------------------------------------------|
+| campus2canton-data  |                                                                                                                       |
+| Player Metric App   | \[![Player Metric App](https://github.com/JerrickBackous/metric_app/workflows/R-CMD-check/badge.svg)\]                |
+| Player Metric Table | \[![Player Metric Table](https://github.com/JerrickBackous/college_player_data_app/workflows/R-CMD-check/badge.svg)\] |
 
 ## GitHub Documents
 
