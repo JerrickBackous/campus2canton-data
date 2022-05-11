@@ -14,20 +14,21 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r echo = FALSE, message = FALSE, warning = FALSE}
 
 status <- tibble::tribble(
-  ~Data, ~ Status,
-  "campus2canton-data", "",
-  "Rankings App Tier 1", "![rankings_app](https://github.com/JerrickBackous/rankings_app/workflows/R-CMD-check/badge.svg)",
-  "Rankings App Tier 2", "![rankings_app_with_freshmen](https://github.com/JerrickBackous/rankings_app_with_freshmen/workflows/R-CMD-check/badge.svg)",
-  "ADP App", "![adp_app](https://github.com/JerrickBackous/adp_app/workflows/R-CMD-check/badge.svg)",
-  "ADP History App", "![adp_history_app](https://github.com/JerrickBackous/adp_history_app/workflows/R-CMD-check/badge.svg)",
-  "Draft Prob App", "![draft_probability_app](https://github.com/JerrickBackous/draft_probability_app/workflows/R-CMD-check/badge.svg)",
-  "Player Metric App", "![metric_app](https://github.com/JerrickBackous/metric_app/workflows/R-CMD-check/badge.svg)",
-  "Player Metric Table", "![college_player_data_app](https://github.com/JerrickBackous/college_player_data_app/workflows/R-CMD-check/badge.svg)",
-  "College Team App", "![college_team_analyzer](https://github.com/JerrickBackous/college_team_analyzer/workflows/R-CMD-check/badge.svg)",
-  "College Coach App", "![college_coach_analyzer](https://github.com/JerrickBackous/college_coach_analyzer/workflows/R-CMD-check/badge.svg)",
-  "College RYOE App", "![college_ryoe_app](https://github.com/JerrickBackous/college_ryoe_app/workflows/R-CMD-check/badge.svg)",
-  "Player Summary App", "![player_summary_app](https://github.com/JerrickBackous/player_summary_app/workflows/R-CMD-check/badge.svg)",
-  "Recruiting App", "![recruit_app](https://github.com/JerrickBackous/recruit_app/workflows/R-CMD-check/badge.svg)"
+  ~Data, ~ Status, ~ Deployed,
+  "campus2canton-data", "", "",
+  "college_data_updateR", "![college_data_updateR](https://github.com/JerrickBackous/college_data_updateR/workflows/update_college_player_data/badge.svg)", "![college_data_updateR](https://github.com/JerrickBackous/college_data_updateR/workflows/update_nfl_player_results/badge.svg)",
+  "Rankings App Tier 1", "![rankings_app](https://github.com/JerrickBackous/rankings_app/workflows/R-CMD-check/badge.svg)", "![rankings_app](https://github.com/JerrickBackous/rankings_app/workflows/update_rankings/badge.svg)",
+  "Rankings App Tier 2", "![rankings_app_with_freshmen](https://github.com/JerrickBackous/rankings_app_with_freshmen/workflows/R-CMD-check/badge.svg)", "![rankings_app_with_freshmen](https://github.com/JerrickBackous/rankings_app_with_freshmen/workflows/update_tier_2_rankings_shiny_app/badge.svg)",
+  "ADP App", "![adp_app](https://github.com/JerrickBackous/adp_app/workflows/R-CMD-check/badge.svg)", "![adp_app](https://github.com/JerrickBackous/adp_app/workflows/update_adp_data/badge.svg)",
+  "ADP History App", "![adp_history_app](https://github.com/JerrickBackous/adp_history_app/workflows/R-CMD-check/badge.svg)", "![adp_history_app](https://github.com/JerrickBackous/adp_history_app/workflows/update_adp_history_data/badge.svg)",
+  "Draft Prob App", "![draft_probability_app](https://github.com/JerrickBackous/draft_probability_app/workflows/R-CMD-check/badge.svg)", "![draft_probability_app](https://github.com/JerrickBackous/draft_probability_app/workflows/update_draft_prob_data/badge.svg)",
+  "Player Metric App", "![metric_app](https://github.com/JerrickBackous/metric_app/workflows/R-CMD-check/badge.svg)", "![metric_app](https://github.com/JerrickBackous/metric_app/workflows/update_metric_shiny_app/badge.svg)",
+  "Player Metric Table", "![college_player_data_app](https://github.com/JerrickBackous/college_player_data_app/workflows/R-CMD-check/badge.svg)", "![college_player_data_app](https://github.com/JerrickBackous/college_player_data_app/workflows/deploy_player_data_shiny_app/badge.svg)",
+  "College Team App", "![college_team_analyzer](https://github.com/JerrickBackous/college_team_analyzer/workflows/R-CMD-check/badge.svg)", "![college_team_analyzer](https://github.com/JerrickBackous/college_team_analyzer/workflows/update_college_team_metric_data/badge.svg)",
+  "College Coach App", "![college_coach_analyzer](https://github.com/JerrickBackous/college_coach_analyzer/workflows/R-CMD-check/badge.svg)", "![college_coach_analyzer](https://github.com/JerrickBackous/college_coach_analyzer/workflows/update_college_coach_metric_data/badge.svg)",
+  "College RYOE App", "![college_ryoe_app](https://github.com/JerrickBackous/college_ryoe_app/workflows/R-CMD-check/badge.svg)", "![college_ryoe_app](https://github.com/JerrickBackous/college_ryoe_app/workflows/update_ryoe_data/badge.svg)",
+  "Player Summary App", "![player_summary_app](https://github.com/JerrickBackous/player_summary_app/workflows/R-CMD-check/badge.svg)", "![player_summary_app](https://github.com/JerrickBackous/player_summary_app/workflows/update_player_summary_shiny_app/badge.svg)",
+  "Recruiting App", "![recruit_app](https://github.com/JerrickBackous/recruit_app/workflows/R-CMD-check/badge.svg)", "![recruit_app](https://github.com/JerrickBackous/recruit_app/workflows/update_recruit_shiny_app/badge.svg)"
   ) |> 
   dplyr::mutate_all(tidyr::replace_na,"")
 ```
