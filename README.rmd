@@ -26,7 +26,8 @@ status <- tibble::tribble(
   "College Team App",  "![college_team_analyzer](https://github.com/JerrickBackous/college_team_analyzer/workflows/CI-CD/badge.svg)",
   "College Coach App", "![college_coach_analyzer](https://github.com/JerrickBackous/college_coach_analyzer/workflows/CI-CD/badge.svg)",
   "College RYOE App",  "![college_ryoe_app](https://github.com/JerrickBackous/college_ryoe_app/workflows/CI-CD/badge.svg)",
-  "Player Summary App", "![player_summary_app](https://github.com/JerrickBackous/player_summary_app/workflows/CI-CD/badge.svg)",  "Recruiting App", "![recruit_app](https://github.com/JerrickBackous/recruit_app/workflows/CI-CD/badge.svg)"
+  "Player Summary App", "![player_summary_app](https://github.com/JerrickBackous/player_summary_app/workflows/CI-CD/badge.svg)",
+  "Recruiting App", "![recruit_app](https://github.com/JerrickBackous/recruit_app/workflows/CI-CD/badge.svg)"
   ) |> 
   dplyr::mutate_all(tidyr::replace_na,"")
 ```
