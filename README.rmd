@@ -2,7 +2,6 @@
 title: "Campus 2 Canton App Overview"
 output: github_document
 ---
-# campus2canton-data
 Public repo for campus2canton data
 
 <!-- badges: start -->

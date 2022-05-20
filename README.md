@@ -1,8 +1,6 @@
 Campus 2 Canton App Overview
 ================
 
-# campus2canton-data
-
 Public repo for campus2canton data
 
 <!-- badges: start -->
