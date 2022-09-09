@@ -374,7 +374,7 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,2,6,Cincinnati,0.8781975,1,0,Luke Fickell,American Athletic,2132,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2132.png
 2022,1,1,6,Arkansas,0.2387024,0,1,Sam Pittman,SEC,8,#9c1831,http://a.espncdn.com/i/teamlogos/ncaa/500/8.png
 2022,1,1,6,Cincinnati,0.6291619,1,0,Luke Fickell,American Athletic,2132,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2132.png
-2022,1,2,5,Cincinnati,0.6668412,1,0,Luke Fickell,American Athletic,2132,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2132.png
+2022,1,2,5,Cincinnati,0.6102335,1,0,Luke Fickell,American Athletic,2132,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2132.png
 2022,1,3,5,Cincinnati,0.681755,1,0,Luke Fickell,American Athletic,2132,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2132.png
 2022,1,1,4,Arkansas,0.2899494,1,0,Sam Pittman,SEC,8,#9c1831,http://a.espncdn.com/i/teamlogos/ncaa/500/8.png
 2022,1,1,4,Arkansas,0.256815,0,1,Sam Pittman,SEC,8,#9c1831,http://a.espncdn.com/i/teamlogos/ncaa/500/8.png
@@ -473,7 +473,7 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,7,Auburn,0.0099426,0,1,Bryan Harsin,SEC,2,#03244d,http://a.espncdn.com/i/teamlogos/ncaa/500/2.png
 2022,1,2,4,Auburn,0.0083014,0,1,Bryan Harsin,SEC,2,#03244d,http://a.espncdn.com/i/teamlogos/ncaa/500/2.png
 2022,1,1,2,Auburn,0.0044984,0,1,Bryan Harsin,SEC,2,#03244d,http://a.espncdn.com/i/teamlogos/ncaa/500/2.png
-2022,1,1,1,Auburn,0.0038412,0,1,Bryan Harsin,SEC,2,#03244d,http://a.espncdn.com/i/teamlogos/ncaa/500/2.png
+2022,1,1,1,Auburn,0.0037846,0,1,Bryan Harsin,SEC,2,#03244d,http://a.espncdn.com/i/teamlogos/ncaa/500/2.png
 2022,1,1,7,Auburn,7.643e-4,0,1,Bryan Harsin,SEC,2,#03244d,http://a.espncdn.com/i/teamlogos/ncaa/500/2.png
 2022,1,2,7,Auburn,8.132e-4,1,0,Bryan Harsin,SEC,2,#03244d,http://a.espncdn.com/i/teamlogos/ncaa/500/2.png
 2022,1,1,7,Auburn,7.358e-4,1,0,Bryan Harsin,SEC,2,#03244d,http://a.espncdn.com/i/teamlogos/ncaa/500/2.png
@@ -617,136 +617,137 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,2,0,Utah,0.6601897,1,0,Kyle Whittingham,Pac-12,254,#890012,http://a.espncdn.com/i/teamlogos/ncaa/500/254.png
 2022,1,1,0,Utah,0.0896991,1,0,Kyle Whittingham,Pac-12,254,#890012,http://a.espncdn.com/i/teamlogos/ncaa/500/254.png
 2022,1,2,0,Utah,0.1438907,1,0,Kyle Whittingham,Pac-12,254,#890012,http://a.espncdn.com/i/teamlogos/ncaa/500/254.png
-2022,1,1,14,Oregon,0.3586856,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,2,14,Oregon,0.3599455,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,3,14,Oregon,0.3968428,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,13,Oregon,0.3573564,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,2,13,Oregon,0.3572834,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,13,Oregon,0.3731226,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,2,11,Oregon,0.3889268,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,3,11,Oregon,0.4146385,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,11,Georgia,0.3246076,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,2,10,Georgia,0.3433159,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,10,Georgia,0.3435513,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,9,Georgia,0.3783524,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,2,9,Georgia,0.3894713,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,8,Georgia,0.4427478,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,2,8,Georgia,0.4790175,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,3,7,Georgia,0.524838,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,7,Georgia,0.4821209,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,2,7,Georgia,0.5194787,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,3,7,Georgia,0.5499415,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,6,Georgia,0.4478625,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,6,Oregon,0.1456336,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,2,5,Oregon,0.1564048,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,4,Oregon,0.1520607,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,2,4,Oregon,0.1616062,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,3,4,Oregon,0.1749328,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,3,Oregon,0.167127,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,3,Georgia,0.6712257,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,2,2,Georgia,0.6268091,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,1,Georgia,0.6554237,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,2,1,Georgia,0.652353,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,0,Georgia,0.7522893,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,0,Georgia,0.7612169,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,2,14,Georgia,0.7894392,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,14,Oregon,0.0483024,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,2,14,Oregon,0.0521881,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,3,13,Oregon,0.0575747,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,12,Oregon,0.0492232,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,2,12,Oregon,0.052896,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,3,12,Oregon,0.0604807,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,12,Oregon,0.0689619,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,11,Georgia,0.8599908,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,2,10,Georgia,0.8790348,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,10,Georgia,0.9137085,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,2,9,Georgia,0.9238582,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,3,8,Georgia,0.9249397,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,8,Georgia,0.9135473,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,8,Oregon,0.0165621,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,2,7,Oregon,0.0175799,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,3,7,Oregon,0.0177916,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,7,Oregon,0.0173429,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,6,Oregon,0.0184888,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,6,Oregon,0.0201537,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,2,5,Oregon,0.0216514,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,5,Oregon,0.0225405,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,4,Oregon,0.02589,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,2,4,Oregon,0.0275098,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,3,4,Oregon,0.0293996,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,3,Georgia,0.9278465,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,2,3,Georgia,0.9335573,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,3,2,Georgia,0.9428098,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,2,Georgia,0.9394337,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,2,2,Georgia,0.9311728,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,3,1,Georgia,0.942876,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,0,Georgia,0.9444748,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,0,Georgia,0.9505806,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,0,Oregon,0.0114072,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,0,Oregon,0.0119791,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,2,0,Oregon,0.0115947,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,0,Oregon,0.0153664,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,14,Georgia,0.9839554,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,13,Georgia,0.9903048,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,2,13,Georgia,0.9917742,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,13,Georgia,0.9938616,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,2,12,Georgia,0.9950274,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,3,12,Georgia,0.9958057,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,11,Oregon,0.0041257,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,2,11,Oregon,0.0042336,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,3,11,Oregon,0.0044371,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,10,Oregon,0.0041109,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,2,10,Oregon,0.0042719,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,3,9,Oregon,0.0044765,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,9,Georgia,0.9969773,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,2,8,Georgia,0.9974997,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,3,8,Georgia,0.9981246,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,7,Georgia,0.9982662,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,2,7,Georgia,0.9986467,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,3,6,Georgia,0.9989899,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,5,Georgia,0.9987594,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,5,Georgia,0.9992802,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,5,Georgia,0.999269,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,5,Oregon,0.0011532,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,4,Oregon,0.0012326,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,2,4,Oregon,0.0013266,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,3,4,Oregon,0.0017621,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,3,Georgia,0.9994271,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,2,3,Georgia,0.9995146,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,2,Georgia,0.9995862,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,2,2,Georgia,0.9996668,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,1,Georgia,0.9997359,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,0,Georgia,0.9997932,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,0,Georgia,0.9998685,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,2,14,Georgia,0.9998951,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,3,14,Georgia,0.9999108,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,14,Oregon,1.497e-4,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,2,13,Oregon,1.565e-4,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,3,13,Oregon,1.696e-4,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,12,Georgia,0.9999493,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,2,11,Georgia,0.9999651,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,3,10,Georgia,0.9999762,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,1,10,Oregon,5.69e-5,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,2,9,Oregon,5.83e-5,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,3,9,Oregon,5.85e-5,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,4,8,Oregon,6.57e-5,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,8,Oregon,3.99e-5,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,2,7,Oregon,3.8e-5,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,3,7,Oregon,4.19e-5,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,7,Oregon,3.45e-5,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,2,6,Oregon,3.65e-5,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,6,Oregon,3.29e-5,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,2,6,Oregon,2.8e-5,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,5,Oregon,3.11e-5,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,2,4,Oregon,2.69e-5,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,3,4,Oregon,2.48e-5,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,4,3,Oregon,1.86e-5,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,3,Oregon,1.72e-5,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,2,2,Oregon,5.55e-5,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,3,1,Oregon,1.102e-4,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,4,1,Oregon,4.54e-4,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
-2022,1,1,1,Georgia,0.9999952,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
-2022,1,2,0,Georgia,0.9998225,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,0,Florida,0.003448,0,1,Billy Napier,SEC,57,#0021A5,http://a.espncdn.com/i/teamlogos/ncaa/500/57.png
+2022,1,1,14,Oregon,0.5458449,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,2,14,Oregon,0.5099397,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,3,14,Oregon,0.5977891,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,13,Oregon,0.4825321,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,2,13,Oregon,0.4351267,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,13,Oregon,0.4250112,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,2,11,Oregon,0.448049,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,3,11,Oregon,0.4323603,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,11,Georgia,0.501441,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,2,10,Georgia,0.5183417,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,10,Georgia,0.4607237,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,9,Georgia,0.4089722,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,2,9,Georgia,0.3799776,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,8,Georgia,0.3610666,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,2,8,Georgia,0.3903112,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,3,7,Georgia,0.4269194,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,7,Georgia,0.3452188,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,2,7,Georgia,0.3654661,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,3,7,Georgia,0.3656836,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,6,Georgia,0.2905616,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,6,Oregon,0.745473,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,2,5,Oregon,0.7759846,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,4,Oregon,0.7148929,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,2,4,Oregon,0.7054146,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,3,4,Oregon,0.7193655,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,3,Oregon,0.685268,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,3,Georgia,0.2559548,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,2,2,Georgia,0.2755901,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,1,Georgia,0.200215,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,2,1,Georgia,0.1689456,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,0,Georgia,0.1514935,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,0,Georgia,0.1194359,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,2,14,Georgia,0.1331833,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,14,Oregon,0.909328,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,2,14,Oregon,0.9207396,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,3,13,Oregon,0.9255696,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,12,Oregon,0.8936106,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,2,12,Oregon,0.8925587,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,3,12,Oregon,0.9085001,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,12,Oregon,0.8475982,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,11,Georgia,0.0759504,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,2,10,Georgia,0.0740166,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,10,Georgia,0.0456642,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,2,9,Georgia,0.0473355,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,3,8,Georgia,0.0478262,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,8,Georgia,0.0371727,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,8,Oregon,0.9766668,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,2,7,Oregon,0.9788291,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,3,7,Oregon,0.9743967,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,7,Oregon,0.9731541,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,6,Oregon,0.9687759,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,6,Oregon,0.9635615,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,2,5,Oregon,0.9637593,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,5,Oregon,0.9580561,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,4,Oregon,0.9513899,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,2,4,Oregon,0.9576387,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,3,4,Oregon,0.9665564,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,3,Georgia,0.0377078,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,2,3,Georgia,0.0364187,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,3,2,Georgia,0.0398123,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,2,Georgia,0.0348867,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,2,2,Georgia,0.0441388,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,3,1,Georgia,0.0364465,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,0,Georgia,0.0341644,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,0,Georgia,0.0237936,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,0,Oregon,0.9888351,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,0,Oregon,0.9880596,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,2,0,Oregon,0.9871808,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,0,Oregon,0.9878294,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,14,Georgia,0.0101671,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,13,Georgia,0.0087022,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,2,13,Georgia,0.0083829,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,13,Georgia,0.0080301,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,2,12,Georgia,0.0083483,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,3,12,Georgia,0.0083132,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,11,Oregon,0.9988169,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,2,11,Oregon,0.9989193,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,3,11,Oregon,0.9991478,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,10,Oregon,0.9984092,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,2,10,Oregon,0.9989334,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,3,9,Oregon,0.9990695,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,9,Georgia,0.0045377,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,2,8,Georgia,0.004436,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,3,8,Georgia,0.0047607,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,7,Georgia,0.0037604,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,2,7,Georgia,0.0038985,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,3,6,Georgia,0.0038636,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,5,Georgia,0.0033381,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,5,Georgia,0.0031229,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,5,Georgia,0.0031637,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,5,Oregon,0.9998146,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,4,Oregon,0.9997482,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,2,4,Oregon,0.9997925,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,3,4,Oregon,0.9998091,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,3,Georgia,0.0020658,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,2,3,Georgia,0.0019851,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,2,Georgia,0.0015851,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,2,2,Georgia,0.0014965,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,1,Georgia,0.0012012,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,0,Georgia,0.0010706,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,0,Georgia,9.314e-4,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,2,14,Georgia,9.198e-4,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,3,14,Georgia,0.0010304,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,14,Oregon,0.9999643,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,2,13,Oregon,0.9999699,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,3,13,Oregon,0.9999729,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,12,Georgia,2.222e-4,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,2,11,Georgia,1.774e-4,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,3,10,Georgia,1.682e-4,1,0,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,1,10,Oregon,0.9999895,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,2,9,Oregon,0.9999915,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,3,9,Oregon,0.9999931,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,4,8,Oregon,0.9999943,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,8,Oregon,0.999993,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,2,7,Oregon,0.9999927,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,3,7,Oregon,0.9999944,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,7,Oregon,0.9999944,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,2,6,Oregon,0.9999957,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,6,Oregon,0.999995,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,2,6,Oregon,0.9999949,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,5,Oregon,0.9999965,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,2,4,Oregon,0.9999982,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,3,4,Oregon,0.9999989,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,4,3,Oregon,0.9999995,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,3,Oregon,0.9999992,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,2,2,Oregon,0.9999995,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,3,1,Oregon,0.9999994,0,1,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,4,1,Oregon,0.9999988,1,0,Dan Lanning,Pac-12,2483,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2022,1,1,1,Georgia,0.001275,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2022,1,2,0,Georgia,3.5e-5,0,1,Kirby Smart,SEC,61,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
 2022,1,1,15,Miami (OH),0.5096802,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
 2022,1,2,15,Miami (OH),0.5470592,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
 2022,1,3,15,Miami (OH),0.5909934,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
@@ -788,7 +789,6 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,11,Kentucky,0.3528443,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
 2022,1,1,11,Kentucky,0.3297168,0,1,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
 2022,1,2,11,Kentucky,0.3426433,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
-2022,1,3,11,Kentucky,0.3725997,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
 2022,1,1,9,Miami (OH),0.5997414,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
 2022,1,2,9,Miami (OH),0.6120251,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
 2022,1,1,9,Miami (OH),0.5511678,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
@@ -810,51 +810,50 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,0,Kentucky,0.341776,0,1,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
 2022,1,2,0,Kentucky,0.3370292,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
 2022,1,1,0,Kentucky,0.2904606,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
-2022,1,1,14,Miami (OH),0.8478278,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
-2022,1,2,14,Miami (OH),0.851415,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+2022,1,1,14,Miami (OH),0.9760931,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+2022,1,2,14,Miami (OH),0.9980764,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
 2022,1,1,14,Kentucky,0.0726695,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
-2022,1,2,14,Miami (OH),0.851415,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
-2022,1,2,13,Kentucky,0.0790821,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
-2022,1,1,13,Miami (OH),0.9608646,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
-2022,1,1,13,Miami (OH),0.9423069,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
-2022,1,2,13,Miami (OH),0.9481315,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
-2022,1,3,13,Miami (OH),0.9583698,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
-2022,1,4,13,Miami (OH),0.9595135,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
-2022,1,1,13,Miami (OH),0.9257847,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+2022,1,2,14,Miami (OH),0.9980764,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+2022,1,2,13,Kentucky,0.0149466,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
+2022,1,1,13,Miami (OH),0.9964267,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+2022,1,1,13,Miami (OH),0.9941505,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+2022,1,2,13,Miami (OH),0.99493,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+2022,1,3,13,Miami (OH),0.9961554,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+2022,1,4,13,Miami (OH),0.9962871,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+2022,1,1,13,Miami (OH),0.9915499,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
 2022,1,1,13,Miami (OH),0.9088911,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
-2022,1,1,13,Miami (OH),0.8965399,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
-2022,1,2,9,Miami (OH),0.9159238,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
-2022,1,3,9,Miami (OH),0.9333123,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
-2022,1,1,9,Kentucky,0.052876,0,1,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
+2022,1,1,13,Miami (OH),0.9851457,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+2022,1,2,9,Miami (OH),0.9886685,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+2022,1,3,9,Miami (OH),0.9919805,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+2022,1,1,9,Kentucky,0.2680727,0,1,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
 2022,1,2,9,Kentucky,0.0543431,0,1,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
 2022,1,3,9,Kentucky,0.0476395,0,1,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
 2022,1,1,9,Kentucky,0.0403348,0,1,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
 2022,1,2,9,Kentucky,0.0426436,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
 2022,1,3,9,Kentucky,0.0509157,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
-2022,1,1,5,Miami (OH),0.9261774,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+2022,1,1,5,Miami (OH),0.6508157,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
 2022,1,2,5,Miami (OH),0.9371874,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
 2022,1,3,5,Miami (OH),0.9489067,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
-2022,1,1,4,Kentucky,0.033463,0,1,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
+2022,1,1,4,Kentucky,0.1982057,0,1,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
 2022,1,2,4,Kentucky,0.0362087,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
 2022,1,1,4,Kentucky,0.0294483,0,1,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
 2022,1,2,4,Kentucky,0.030988,0,1,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
 2022,1,3,4,Kentucky,0.0324895,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
-2022,1,1,1,Miami (OH),0.9714206,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+2022,1,1,1,Miami (OH),0.8115288,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
 2022,1,1,1,Miami (OH),0.964888,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
 2022,1,2,0,Miami (OH),0.9678148,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
 2022,1,3,15,Miami (OH),0.9630226,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
-2022,1,1,15,Miami (OH),0.9558617,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
-2022,1,2,15,Miami (OH),0.9709935,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
-2022,1,3,15,Miami (OH),0.971175,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
-2022,1,1,12,Kentucky,0.02231,0,1,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
-2022,1,2,12,Kentucky,0.0255657,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
-2022,1,1,12,Kentucky,0.0178754,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
-2022,1,2,12,Kentucky,0.019009,0,1,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
-2022,1,1,12,Kentucky,0.0155986,0,1,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
-2022,1,2,12,Kentucky,0.0179742,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
-2022,1,1,12,Kentucky,0.0112575,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
-2022,1,1,8,Kentucky,0.0067357,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
-2022,1,2,7,Kentucky,0.0048173,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
+2022,1,1,15,Miami (OH),0.7392599,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+2022,1,2,15,Miami (OH),0.8055741,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+2022,1,1,12,Kentucky,0.168175,0,1,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
+2022,1,2,12,Kentucky,0.1874612,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
+2022,1,1,12,Kentucky,0.1391014,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
+2022,1,2,12,Kentucky,0.1469215,0,1,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
+2022,1,1,12,Kentucky,0.1224863,0,1,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
+2022,1,2,12,Kentucky,0.139629,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
+2022,1,1,12,Kentucky,0.0866058,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
+2022,1,1,8,Kentucky,0.0646034,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
+2022,1,2,7,Kentucky,0.0482615,1,0,Mark Stoops,SEC,96,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
 2022,1,1,7,Miami (OH),0.9980257,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
 2022,1,2,7,Miami (OH),0.9981017,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
 2022,1,1,7,Miami (OH),0.9974879,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
@@ -867,6 +866,7 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,7,Miami (OH),0.9955867,0,1,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
 2022,1,2,7,Miami (OH),0.995779,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
 2022,1,3,7,Miami (OH),0.9967955,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+2022,1,4,0,Miami (OH),0.9999468,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
 2022,1,4,0,Miami (OH),0.9999468,1,0,Chuck Martin,Mid-American,193,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
 2022,1,1,14,Troy,0.5080756,0,1,Jon Sumrall,Sun Belt,2653,#AE0210,http://a.espncdn.com/i/teamlogos/ncaa/500/2653.png
 2022,1,2,14,Troy,0.5020097,1,0,Jon Sumrall,Sun Belt,2653,#AE0210,http://a.espncdn.com/i/teamlogos/ncaa/500/2653.png
@@ -1022,6 +1022,139 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,1,Ole Miss,4.586e-4,0,1,Lane Kiffin,SEC,145,#001148,http://a.espncdn.com/i/teamlogos/ncaa/500/145.png
 2022,1,1,0,Ole Miss,0.0061653,0,1,Lane Kiffin,SEC,145,#001148,http://a.espncdn.com/i/teamlogos/ncaa/500/145.png
 2022,1,2,0,Ole Miss,0.0012419,0,1,Lane Kiffin,SEC,145,#001148,http://a.espncdn.com/i/teamlogos/ncaa/500/145.png
+2022,1,1,15,Mississippi State,0.5096802,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,15,Mississippi State,0.4841318,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,15,Mississippi State,0.4641441,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,15,Mississippi State,0.4783844,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,15,Mississippi State,0.4206493,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,15,Mississippi State,0.4503886,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,15,Mississippi State,0.3941031,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,15,Mississippi State,0.4148284,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,3,15,Mississippi State,0.3895984,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,9,Mississippi State,0.3396338,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,9,Memphis,0.7515262,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,9,Memphis,0.7174359,0,1,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,2,9,Memphis,0.7644868,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,3,9,Memphis,0.7578164,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,7,Mississippi State,0.256032,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,7,Mississippi State,0.2606242,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,7,Mississippi State,0.2227299,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,7,Mississippi State,0.1895736,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,7,Mississippi State,0.209954,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,3,7,Mississippi State,0.2392599,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,7,Mississippi State,0.1671513,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,7,Mississippi State,0.1672981,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,3,7,Mississippi State,0.1624169,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,7,Mississippi State,0.1545157,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,7,Mississippi State,0.1468588,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,7,Mississippi State,0.1414681,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,0,Mississippi State,0.1499982,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,0,Memphis,0.8997496,0,1,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,2,0,Memphis,0.9078994,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,3,0,Memphis,0.922576,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,14,Mississippi State,0.0763398,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,14,Memphis,0.8501393,0,1,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,2,14,Memphis,0.8564068,0,1,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,3,14,Memphis,0.8715015,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,13,Mississippi State,0.1042905,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,13,Mississippi State,0.1120038,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,3,13,Mississippi State,0.1298558,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,13,Mississippi State,0.0935601,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,13,Mississippi State,0.0848962,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,13,Mississippi State,0.0918175,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,13,Mississippi State,0.058678,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,13,Mississippi State,0.0637715,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,3,10,Mississippi State,0.0632041,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,9,Memphis,0.9584221,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,2,9,Memphis,0.9620504,0,1,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,3,9,Memphis,0.9660719,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,8,Mississippi State,0.0361019,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,8,Mississippi State,0.0411889,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,3,8,Mississippi State,0.0361679,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,8,Mississippi State,0.0310671,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,8,Mississippi State,0.028141,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,8,Mississippi State,0.0281225,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,8,Mississippi State,0.0263165,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,8,Mississippi State,0.0285253,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,8,Mississippi State,0.0239063,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,8,Mississippi State,0.0248552,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,8,Mississippi State,0.0204478,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,8,Mississippi State,0.0192901,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,8,Mississippi State,0.0206064,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,3,1,Mississippi State,0.0230805,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,1,Memphis,0.9895079,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,2,1,Memphis,0.9900104,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,3,1,Memphis,0.9901895,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,0,Mississippi State,0.014707,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,14,Memphis,0.9939946,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,2,14,Memphis,0.9944827,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,3,14,Memphis,0.9956007,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,13,Mississippi State,0.0095533,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,13,Mississippi State,0.0095226,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,3,13,Mississippi State,0.0091871,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,13,Mississippi State,0.0087678,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,13,Mississippi State,0.0081331,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,3,10,Mississippi State,0.0079162,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,10,Memphis,0.9985788,0,1,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,2,10,Memphis,0.998702,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,3,10,Memphis,0.9989938,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,9,Mississippi State,0.0046703,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,9,Mississippi State,0.004939,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,3,8,Mississippi State,0.0054295,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,8,Memphis,0.998581,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,7,Memphis,0.9979824,0,1,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,7,Mississippi State,0.010635,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,7,Mississippi State,0.0105527,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,7,Mississippi State,0.0094502,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,7,Mississippi State,0.0089122,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,7,Mississippi State,0.0087715,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,3,7,Mississippi State,0.0108749,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,3,Memphis,0.9955238,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,3,3,Memphis,0.9963243,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,3,Memphis,0.9914862,0,1,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,2,3,Memphis,0.9913782,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,3,3,Memphis,0.9949607,0,1,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,3,Memphis,0.9953422,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,4,0,Memphis,0.9959288,0,1,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,0,Mississippi State,0.0063547,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,0,Mississippi State,0.0055724,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,15,Mississippi State,0.0054239,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,15,Mississippi State,0.0055322,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,13,Mississippi State,0.0042875,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,13,Memphis,0.996321,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,2,13,Memphis,0.9943094,0,1,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,13,Memphis,0.9952402,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,2,13,Memphis,0.994388,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,3,13,Memphis,0.9958117,0,1,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,13,Memphis,0.993846,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,2,13,Memphis,0.9951451,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,13,Memphis,0.9868724,0,1,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,2,10,Memphis,0.9921754,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,10,Mississippi State,0.0131582,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,10,Mississippi State,0.0139522,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,3,10,Mississippi State,0.0155411,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,10,Mississippi State,0.0139525,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,10,Mississippi State,0.012136,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,10,Mississippi State,0.0084049,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,5,Mississippi State,0.0038486,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,5,Memphis,0.9990025,0,1,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,5,Memphis,0.9985302,0,1,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,5,Memphis,0.9979607,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,2,5,Memphis,0.998395,0,1,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,3,5,Memphis,0.9982929,0,1,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,5,Memphis,0.9975636,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,2,5,Memphis,0.9971885,0,1,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,3,Memphis,0.9988904,0,1,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,3,Mississippi State,8.729e-4,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,3,Mississippi State,9.193e-4,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,2,Mississippi State,3.35e-4,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,2,Mississippi State,3.58e-4,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,3,2,Mississippi State,3.595e-4,1,0,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,1,2,Memphis,0.9999811,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,2,2,Memphis,0.9999801,1,0,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,3,1,Memphis,0.999988,0,1,Ryan Silverfield,American Athletic,235,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2022,1,1,1,Mississippi State,1.601e-4,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2022,1,2,0,Mississippi State,0,0,1,Mike Leach,SEC,344,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
 2022,1,1,15,Georgia State,0.5096802,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
 2022,1,2,15,Georgia State,0.4965045,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
 2022,1,1,15,Georgia State,0.3818247,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
@@ -1099,64 +1232,64 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,3,14,Georgia State,0.5758592,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
 2022,1,1,14,Georgia State,0.4540817,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
 2022,1,2,11,Georgia State,0.4986813,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,1,11,South Carolina,0.5610122,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,2,11,South Carolina,0.5323121,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,1,11,South Carolina,0.5611949,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,2,11,South Carolina,0.6382557,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,1,11,South Carolina,0.5040979,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,1,11,South Carolina,0.464151,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,2,11,South Carolina,0.4825145,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,1,11,South Carolina,0.4385119,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,2,7,South Carolina,0.4614375,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,1,7,Georgia State,0.7307622,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,1,7,Georgia State,0.6454082,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,2,7,Georgia State,0.6823146,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,3,7,Georgia State,0.6972494,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,1,5,Georgia State,0.8976708,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,2,5,Georgia State,0.904196,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,3,5,Georgia State,0.9058582,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,1,5,Georgia State,0.8805588,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,2,5,Georgia State,0.8978168,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,3,5,Georgia State,0.9109596,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,1,3,South Carolina,0.0831109,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,2,3,South Carolina,0.0853416,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,3,3,South Carolina,0.1030748,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,1,3,South Carolina,0.0695891,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,2,3,South Carolina,0.069126,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,3,0,South Carolina,0.0632601,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,1,0,Georgia State,0.9239553,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,2,15,Georgia State,0.9286785,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,3,15,Georgia State,0.9416955,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,1,14,South Carolina,0.0861176,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,2,14,South Carolina,0.1033968,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,3,14,South Carolina,0.1215113,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,1,12,Georgia State,0.8946394,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,2,12,Georgia State,0.9132785,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,3,12,Georgia State,0.9290505,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,1,11,Georgia State,0.982758,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,2,11,Georgia State,0.9860665,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,1,11,Georgia State,0.9603179,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,2,11,Georgia State,0.9665647,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,3,11,Georgia State,0.97379,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,4,9,Georgia State,0.9856485,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,1,9,South Carolina,0.0145953,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,2,9,South Carolina,0.0174637,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,3,9,South Carolina,0.0155295,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,1,9,South Carolina,0.0130028,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,2,9,South Carolina,0.0143115,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,3,9,South Carolina,0.0163596,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,1,5,Georgia State,0.9952096,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,2,5,Georgia State,0.9955353,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,3,5,Georgia State,0.9966676,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,1,5,Georgia State,0.9887204,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,2,5,Georgia State,0.9907908,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,3,5,Georgia State,0.9928853,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,4,5,Georgia State,0.9952099,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,1,5,Georgia State,0.9818493,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,2,2,Georgia State,0.997921,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
-2022,1,1,2,South Carolina,0.0018844,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,2,2,South Carolina,0.0019956,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
-2022,1,3,2,South Carolina,0.0022586,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,1,11,South Carolina,0.6036204,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,2,11,South Carolina,0.5755986,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,1,11,South Carolina,0.6037979,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,2,11,South Carolina,0.6776742,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,1,11,South Carolina,0.5477773,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,1,11,South Carolina,0.5079142,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,2,11,South Carolina,0.5263085,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,1,11,South Carolina,0.4820323,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,2,7,South Carolina,0.5051861,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,1,7,Georgia State,0.7035135,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,1,7,Georgia State,0.614083,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,2,7,Georgia State,0.6524943,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,3,7,Georgia State,0.6681492,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,1,5,Georgia State,0.8846479,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,2,5,Georgia State,0.9398324,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,3,5,Georgia State,0.9410359,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,1,5,Georgia State,0.9225187,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,2,5,Georgia State,0.9352269,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,3,5,Georgia State,0.9446255,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,1,3,South Carolina,0.0974831,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,2,3,South Carolina,0.0560794,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,3,3,South Carolina,0.0677333,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,1,3,South Carolina,0.0461192,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,2,3,South Carolina,0.0458347,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,3,0,South Carolina,0.040909,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,1,0,Georgia State,0.954501,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,2,15,Georgia State,0.9576798,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,3,15,Georgia State,0.9661729,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,1,14,South Carolina,0.0553935,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,2,14,South Carolina,0.0664791,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,3,14,South Carolina,0.0785062,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,1,12,Georgia State,0.9368028,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,2,12,Georgia State,0.9493026,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,3,12,Georgia State,0.9595036,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,1,11,Georgia State,0.9803264,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,2,11,Georgia State,0.9840939,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,1,11,Georgia State,0.9548669,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,2,11,Georgia State,0.9619378,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,3,11,Georgia State,0.9701321,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,4,9,Georgia State,0.9836177,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,1,9,South Carolina,0.0177558,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,2,9,South Carolina,0.0207404,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,3,9,South Carolina,0.0184502,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,1,9,South Carolina,0.0154557,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,2,9,South Carolina,0.0170071,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,3,9,South Carolina,0.0194333,1,0,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,1,5,Georgia State,0.9945243,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,2,5,Georgia State,0.9948963,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,3,5,Georgia State,0.99619,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,1,5,Georgia State,0.9871186,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,2,5,Georgia State,0.98948,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,3,5,Georgia State,0.9918701,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,4,5,Georgia State,0.9945246,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,1,5,Georgia State,0.9792922,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,2,2,Georgia State,0.9976227,1,0,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2022,1,1,2,South Carolina,0.0022446,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,2,2,South Carolina,0.0023771,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2022,1,3,2,South Carolina,0.0026902,0,1,Shane Beamer,SEC,2579,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
 2022,1,1,0,Georgia State,0.9999999,0,1,Shawn Elliott,Sun Belt,2247,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
 2022,1,1,14,Ball State,0.4978464,1,0,Mike Neu,Mid-American,2050,#DA0000,http://a.espncdn.com/i/teamlogos/ncaa/500/2050.png
 2022,1,1,14,Tennessee,0.3676227,1,0,Josh Heupel,SEC,2633,#EE9627,http://a.espncdn.com/i/teamlogos/ncaa/500/2633.png
@@ -1380,7 +1513,6 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,1,Texas A&M,5.073e-4,0,1,Jimbo Fisher,SEC,245,#5C0025,http://a.espncdn.com/i/teamlogos/ncaa/500/245.png
 2022,1,2,0,Texas A&M,0.004867,0,1,Jimbo Fisher,SEC,245,#5C0025,http://a.espncdn.com/i/teamlogos/ncaa/500/245.png
 2022,1,3,0,Texas A&M,5.489e-4,0,1,Jimbo Fisher,SEC,245,#5C0025,http://a.espncdn.com/i/teamlogos/ncaa/500/245.png
-2022,1,4,11,Vanderbilt,0.4841534,1,0,Clark Lea,SEC,238,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/238.png
 2022,1,1,13,Vanderbilt,0.4595191,1,0,Clark Lea,SEC,238,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/238.png
 2022,1,2,13,Vanderbilt,0.4963721,0,1,Clark Lea,SEC,238,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/238.png
 2022,1,3,13,Vanderbilt,0.5604978,1,0,Clark Lea,SEC,238,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/238.png
@@ -1439,6 +1571,142 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,2,3,Vanderbilt,0.0098147,0,1,Clark Lea,SEC,238,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/238.png
 2022,1,1,0,Vanderbilt,0.0012656,0,1,Clark Lea,SEC,238,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/238.png
 2022,1,2,0,Vanderbilt,6.586e-4,0,1,Clark Lea,SEC,238,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/238.png
+2022,1,1,14,LSU,0.385707,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,14,LSU,0.4981598,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,2,14,LSU,0.5325017,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,3,13,LSU,0.5208738,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,13,LSU,0.5324251,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,2,12,LSU,0.5578101,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,3,11,LSU,0.5850857,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,11,Florida State,0.2415326,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,10,Florida State,0.2600748,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,3,9,Florida State,0.2886993,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,9,Florida State,0.2631455,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,8,Florida State,0.2997444,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,7,Florida State,0.3425319,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,7,Florida State,0.3743725,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,3,7,Florida State,0.4153599,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,7,LSU,0.4687467,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,2,6,LSU,0.4901495,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,3,5,LSU,0.5251674,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,4,Florida State,0.2342757,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,4,Florida State,0.2499158,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,3,3,Florida State,0.2764757,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,2,Florida State,0.2532701,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,2,Florida State,0.2231106,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,3,1,Florida State,0.2424462,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,1,Florida State,0.2276942,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,1,Florida State,0.2470074,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,3,0,Florida State,0.266588,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,0,Florida State,0.2445773,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,14,Florida State,0.265134,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,3,14,Florida State,0.2779369,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,13,Florida State,0.2612005,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,13,Florida State,0.2827669,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,12,LSU,0.2743732,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,2,12,LSU,0.2934285,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,11,LSU,0.3002987,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,2,11,LSU,0.3100688,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,10,LSU,0.3348639,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,2,9,LSU,0.3578682,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,3,8,LSU,0.4009883,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,8,LSU,0.3689124,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,2,7,LSU,0.3808579,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,7,LSU,0.3473096,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,2,6,LSU,0.3668381,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,3,5,LSU,0.3873841,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,5,Florida State,0.5186083,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,5,Florida State,0.5420964,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,3,4,Florida State,0.5756218,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,4,Florida State,0.5441701,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,3,Florida State,0.5703036,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,3,3,Florida State,0.5325887,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,3,Florida State,0.5989604,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,2,Florida State,0.6229733,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,3,1,Florida State,0.6262217,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,4,1,Florida State,0.6344549,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,1,LSU,0.2338887,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,2,0,LSU,0.2571638,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,0,LSU,0.2800015,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,2,0,LSU,0.2673239,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,14,Florida State,0.5034608,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,14,Florida State,0.529047,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,13,Florida State,0.5512129,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,13,Florida State,0.5546078,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,12,Florida State,0.5864126,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,3,12,Florida State,0.6323216,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,11,Florida State,0.5941264,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,10,Florida State,0.6298519,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,10,Florida State,0.6687945,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,10,Florida State,0.6939216,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,9,Florida State,0.7051334,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,9,Florida State,0.7370867,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,3,8,Florida State,0.7686556,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,8,LSU,0.1217883,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,2,7,LSU,0.1320812,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,3,7,LSU,0.1498108,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,6,Florida State,0.6767556,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,5,Florida State,0.7080864,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,5,Florida State,0.7065498,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,5,Florida State,0.7377694,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,3,5,Florida State,0.775719,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,5,Florida State,0.7500935,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,4,Florida State,0.7805293,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,3,4,Florida State,0.810006,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,4,LSU,0.0308331,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,3,LSU,0.0374258,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,2,3,LSU,0.0417689,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,3,LSU,0.0459312,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,2,LSU,0.0554098,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,2,2,LSU,0.0587886,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,1,LSU,0.0647825,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,2,1,LSU,0.0734089,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,3,0,LSU,0.0783929,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,4,0,LSU,0.0839068,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,0,Florida State,0.644288,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,14,Florida State,0.6712642,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,3,14,Florida State,0.6923305,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,13,Florida State,0.6811556,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,12,Florida State,0.7382133,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,11,Florida State,0.7725886,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,11,Florida State,0.7870783,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,11,Florida State,0.832045,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,10,Florida State,0.8563877,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,3,10,Florida State,0.8572358,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,9,Florida State,0.8318387,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,9,Florida State,0.8489969,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,9,LSU,0.0164131,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,2,8,LSU,0.015286,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,3,8,LSU,0.0175362,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,8,LSU,0.0169882,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,2,7,LSU,0.0181188,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,3,7,LSU,0.0214247,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,7,LSU,0.0165535,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,2,6,LSU,0.0173327,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,3,6,LSU,0.0164923,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,4,5,LSU,0.020215,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,5,LSU,0.0120873,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,2,4,LSU,0.0116998,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,3,4,LSU,0.01303,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,4,LSU,0.0103118,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,2,4,LSU,0.0112649,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,3,Florida State,0.819816,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,3,Florida State,0.8680245,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,3,2,Florida State,0.925739,1,0,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,1,Florida State,0.9660808,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,2,1,Florida State,0.9820978,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,3,1,Florida State,0.9851734,0,1,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2022,1,1,1,LSU,0.001541,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,2,0,LSU,0.0016562,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,0,LSU,0.0013155,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,0,LSU,0.0016199,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,0,LSU,0.0020885,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,0,LSU,0.0025456,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,2,0,LSU,0.0289356,0,1,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,0,LSU,0.0340291,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,2,0,LSU,0.1188587,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,0,LSU,0.0018142,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2022,1,1,0,LSU,0.0069858,1,0,Brian Kelly,SEC,99,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
 2022,1,1,14,Colorado,0.4561239,1,0,Karl Dorrell,Pac-12,38,#d1c57e,http://a.espncdn.com/i/teamlogos/ncaa/500/38.png
 2022,1,2,14,Colorado,0.4826519,0,1,Karl Dorrell,Pac-12,38,#d1c57e,http://a.espncdn.com/i/teamlogos/ncaa/500/38.png
 2022,1,3,13,Colorado,0.5127708,1,0,Karl Dorrell,Pac-12,38,#d1c57e,http://a.espncdn.com/i/teamlogos/ncaa/500/38.png
@@ -1810,7 +2078,7 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,2,6,Boise State,0.9137555,1,0,Andy Avalos,Mountain West,68,#09347A,http://a.espncdn.com/i/teamlogos/ncaa/500/68.png
 2022,1,3,6,Boise State,0.9254872,1,0,Andy Avalos,Mountain West,68,#09347A,http://a.espncdn.com/i/teamlogos/ncaa/500/68.png
 2022,1,1,5,Boise State,0.8799519,0,1,Andy Avalos,Mountain West,68,#09347A,http://a.espncdn.com/i/teamlogos/ncaa/500/68.png
-2022,1,2,4,Boise State,0.8900272,1,0,Andy Avalos,Mountain West,68,#09347A,http://a.espncdn.com/i/teamlogos/ncaa/500/68.png
+2022,1,2,4,Boise State,0.8928458,1,0,Andy Avalos,Mountain West,68,#09347A,http://a.espncdn.com/i/teamlogos/ncaa/500/68.png
 2022,1,1,4,Oregon State,0.0547354,0,1,Jonathan Smith,Pac-12,204,#c34500,http://a.espncdn.com/i/teamlogos/ncaa/500/204.png
 2022,1,2,3,Oregon State,0.0553386,1,0,Jonathan Smith,Pac-12,204,#c34500,http://a.espncdn.com/i/teamlogos/ncaa/500/204.png
 2022,1,1,3,Oregon State,0.0284949,0,1,Jonathan Smith,Pac-12,204,#c34500,http://a.espncdn.com/i/teamlogos/ncaa/500/204.png
@@ -1841,7 +2109,7 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,7,Oregon State,0.0134266,0,1,Jonathan Smith,Pac-12,204,#c34500,http://a.espncdn.com/i/teamlogos/ncaa/500/204.png
 2022,1,2,6,Oregon State,0.015192,1,0,Jonathan Smith,Pac-12,204,#c34500,http://a.espncdn.com/i/teamlogos/ncaa/500/204.png
 2022,1,1,5,Oregon State,0.0112064,1,0,Jonathan Smith,Pac-12,204,#c34500,http://a.espncdn.com/i/teamlogos/ncaa/500/204.png
-2022,1,1,4,Oregon State,0.0114175,0,1,Jonathan Smith,Pac-12,204,#c34500,http://a.espncdn.com/i/teamlogos/ncaa/500/204.png
+2022,1,1,4,Oregon State,0.0084054,0,1,Jonathan Smith,Pac-12,204,#c34500,http://a.espncdn.com/i/teamlogos/ncaa/500/204.png
 2022,1,2,3,Oregon State,0.0099496,1,0,Jonathan Smith,Pac-12,204,#c34500,http://a.espncdn.com/i/teamlogos/ncaa/500/204.png
 2022,1,3,3,Oregon State,0.0109313,0,1,Jonathan Smith,Pac-12,204,#c34500,http://a.espncdn.com/i/teamlogos/ncaa/500/204.png
 2022,1,1,2,Boise State,0.9934716,0,1,Andy Avalos,Mountain West,68,#09347A,http://a.espncdn.com/i/teamlogos/ncaa/500/68.png
@@ -2246,7 +2514,6 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,15,Washington State,0.4395461,0,1,Jake Dickert,Pac-12,265,#94022a,http://a.espncdn.com/i/teamlogos/ncaa/500/265.png
 2022,1,3,15,Washington State,0.489127,0,1,Jake Dickert,Pac-12,265,#94022a,http://a.espncdn.com/i/teamlogos/ncaa/500/265.png
 2022,1,1,13,Washington State,0.3715358,0,1,Jake Dickert,Pac-12,265,#94022a,http://a.espncdn.com/i/teamlogos/ncaa/500/265.png
-2022,1,1,11,Washington State,0.4070304,1,0,Jake Dickert,Pac-12,265,#94022a,http://a.espncdn.com/i/teamlogos/ncaa/500/265.png
 2022,1,1,11,Washington State,0.8034228,1,0,Jake Dickert,Pac-12,265,#94022a,http://a.espncdn.com/i/teamlogos/ncaa/500/265.png
 2022,1,1,11,Washington State,0.703243,1,0,Jake Dickert,Pac-12,265,#94022a,http://a.espncdn.com/i/teamlogos/ncaa/500/265.png
 2022,1,2,11,Washington State,0.7155144,1,0,Jake Dickert,Pac-12,265,#94022a,http://a.espncdn.com/i/teamlogos/ncaa/500/265.png
@@ -2473,7 +2740,7 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,2,9,Kansas State,7.565e-4,0,1,Chris Klieman,Big 12,2306,#633194,http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png
 2022,1,3,9,Kansas State,7.355e-4,0,1,Chris Klieman,Big 12,2306,#633194,http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png
 2022,1,1,9,Kansas State,7.142e-4,1,0,Chris Klieman,Big 12,2306,#633194,http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png
-2022,1,1,9,Kansas State,7.138e-4,1,0,Chris Klieman,Big 12,2306,#633194,http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png
+2022,1,1,9,Kansas State,7.069e-4,1,0,Chris Klieman,Big 12,2306,#633194,http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png
 2022,1,2,9,Kansas State,6.045e-4,0,1,Chris Klieman,Big 12,2306,#633194,http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png
 2022,1,1,9,Kansas State,5.956e-4,0,1,Chris Klieman,Big 12,2306,#633194,http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png
 2022,1,2,9,Kansas State,6.153e-4,1,0,Chris Klieman,Big 12,2306,#633194,http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png
@@ -2485,7 +2752,7 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,4,Iowa State,0.3645865,0,1,Matt Campbell,Big 12,66,#660015,http://a.espncdn.com/i/teamlogos/ncaa/500/66.png
 2022,1,2,4,Iowa State,0.3960901,1,0,Matt Campbell,Big 12,66,#660015,http://a.espncdn.com/i/teamlogos/ncaa/500/66.png
 2022,1,3,3,Iowa State,0.4103798,0,1,Matt Campbell,Big 12,66,#660015,http://a.espncdn.com/i/teamlogos/ncaa/500/66.png
-2022,1,4,2,Iowa State,0.4690064,1,0,Matt Campbell,Big 12,66,#660015,http://a.espncdn.com/i/teamlogos/ncaa/500/66.png
+2022,1,4,2,Iowa State,0.4696812,1,0,Matt Campbell,Big 12,66,#660015,http://a.espncdn.com/i/teamlogos/ncaa/500/66.png
 2022,1,1,0,Iowa State,0.2700114,1,0,Matt Campbell,Big 12,66,#660015,http://a.espncdn.com/i/teamlogos/ncaa/500/66.png
 2022,1,1,0,Iowa State,0.219762,1,0,Matt Campbell,Big 12,66,#660015,http://a.espncdn.com/i/teamlogos/ncaa/500/66.png
 2022,1,2,0,Iowa State,0.2404711,1,0,Matt Campbell,Big 12,66,#660015,http://a.espncdn.com/i/teamlogos/ncaa/500/66.png
@@ -2594,7 +2861,6 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,2,6,Texas,0.020893,0,1,Steve Sarkisian,Big 12,251,#EE7524,http://a.espncdn.com/i/teamlogos/ncaa/500/251.png
 2022,1,1,6,Texas,0.0199847,1,0,Steve Sarkisian,Big 12,251,#EE7524,http://a.espncdn.com/i/teamlogos/ncaa/500/251.png
 2022,1,1,6,Texas,0.0192899,1,0,Steve Sarkisian,Big 12,251,#EE7524,http://a.espncdn.com/i/teamlogos/ncaa/500/251.png
-2022,1,2,6,Texas,0.0222764,1,0,Steve Sarkisian,Big 12,251,#EE7524,http://a.espncdn.com/i/teamlogos/ncaa/500/251.png
 2022,1,3,6,Texas,0.0240785,1,0,Steve Sarkisian,Big 12,251,#EE7524,http://a.espncdn.com/i/teamlogos/ncaa/500/251.png
 2022,1,1,3,Louisiana Monroe,0.9815206,0,1,Terry Bowden,Sun Belt,2433,#231F20,http://a.espncdn.com/i/teamlogos/ncaa/500/2433.png
 2022,1,2,3,Louisiana Monroe,0.9807861,0,1,Terry Bowden,Sun Belt,2433,#231F20,http://a.espncdn.com/i/teamlogos/ncaa/500/2433.png
@@ -2627,7 +2893,6 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,2,7,Louisiana Monroe,0.9991514,1,0,Terry Bowden,Sun Belt,2433,#231F20,http://a.espncdn.com/i/teamlogos/ncaa/500/2433.png
 2022,1,1,7,Louisiana Monroe,0.9998735,0,1,Terry Bowden,Sun Belt,2433,#231F20,http://a.espncdn.com/i/teamlogos/ncaa/500/2433.png
 2022,1,2,7,Louisiana Monroe,0.9998766,0,1,Terry Bowden,Sun Belt,2433,#231F20,http://a.espncdn.com/i/teamlogos/ncaa/500/2433.png
-2022,1,3,7,Louisiana Monroe,0.9998905,1,0,Terry Bowden,Sun Belt,2433,#231F20,http://a.espncdn.com/i/teamlogos/ncaa/500/2433.png
 2022,1,1,5,Texas,7.993e-4,0,1,Steve Sarkisian,Big 12,251,#EE7524,http://a.espncdn.com/i/teamlogos/ncaa/500/251.png
 2022,1,2,5,Texas,8.801e-4,0,1,Steve Sarkisian,Big 12,251,#EE7524,http://a.espncdn.com/i/teamlogos/ncaa/500/251.png
 2022,1,3,5,Texas,9.788e-4,1,0,Steve Sarkisian,Big 12,251,#EE7524,http://a.espncdn.com/i/teamlogos/ncaa/500/251.png
@@ -2838,7 +3103,6 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,3,Coastal Carolina,0.4285447,0,1,Jamey Chadwell,Sun Belt,324,#007073,http://a.espncdn.com/i/teamlogos/ncaa/500/324.png
 2022,1,1,3,Coastal Carolina,0.4071819,0,1,Jamey Chadwell,Sun Belt,324,#007073,http://a.espncdn.com/i/teamlogos/ncaa/500/324.png
 2022,1,2,3,Coastal Carolina,0.4227756,0,1,Jamey Chadwell,Sun Belt,324,#007073,http://a.espncdn.com/i/teamlogos/ncaa/500/324.png
-2022,1,3,3,Coastal Carolina,0.4332145,0,1,Jamey Chadwell,Sun Belt,324,#007073,http://a.espncdn.com/i/teamlogos/ncaa/500/324.png
 2022,1,1,1,Army,0.4984456,0,1,Jeff Monken,FBS Independents,349,#ce9c00,http://a.espncdn.com/i/teamlogos/ncaa/500/349.png
 2022,1,2,1,Army,0.503967,0,1,Jeff Monken,FBS Independents,349,#ce9c00,http://a.espncdn.com/i/teamlogos/ncaa/500/349.png
 2022,1,3,1,Army,0.5052093,0,1,Jeff Monken,FBS Independents,349,#ce9c00,http://a.espncdn.com/i/teamlogos/ncaa/500/349.png
@@ -3252,7 +3516,6 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,3,8,Liberty,0.498035,0,1,Hugh Freeze,FBS Independents,2335,#071740,http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
 2022,1,1,8,Liberty,0.3668212,1,0,Hugh Freeze,FBS Independents,2335,#071740,http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
 2022,1,2,8,Liberty,0.4064497,0,1,Hugh Freeze,FBS Independents,2335,#071740,http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
-2022,1,1,5,Liberty,0.1959786,1,0,Hugh Freeze,FBS Independents,2335,#071740,http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
 2022,1,1,5,Southern Mississippi,0.5942491,0,1,Will Hall,Sun Belt,2572,#FFAA3C,http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png
 2022,1,2,5,Southern Mississippi,0.5787808,0,1,Will Hall,Sun Belt,2572,#FFAA3C,http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png
 2022,1,1,5,Southern Mississippi,0.470747,0,1,Will Hall,Sun Belt,2572,#FFAA3C,http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png
@@ -3260,6 +3523,7 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,5,Southern Mississippi,0.4073634,0,1,Will Hall,Sun Belt,2572,#FFAA3C,http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png
 2022,1,2,5,Southern Mississippi,0.4441239,0,1,Will Hall,Sun Belt,2572,#FFAA3C,http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png
 2022,1,1,5,Southern Mississippi,0.355915,0,1,Will Hall,Sun Belt,2572,#FFAA3C,http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png
+2022,1,1,5,Liberty,0.1959786,1,0,Hugh Freeze,FBS Independents,2335,#071740,http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
 2022,1,2,1,Southern Mississippi,0.1446857,0,1,Will Hall,Sun Belt,2572,#FFAA3C,http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png
 2022,1,1,1,Liberty,0.9593973,1,0,Hugh Freeze,FBS Independents,2335,#071740,http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
 2022,1,1,1,Liberty,0.900595,1,0,Hugh Freeze,FBS Independents,2335,#071740,http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
@@ -3273,6 +3537,14 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,0,Liberty,NA,0,1,Hugh Freeze,FBS Independents,2335,#071740,http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
 2022,1,2,0,Liberty,NA,0,1,Hugh Freeze,FBS Independents,2335,#071740,http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
 2022,1,3,0,Liberty,NA,0,1,Hugh Freeze,FBS Independents,2335,#071740,http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
+2022,1,1,0,Liberty,NA,0,1,Hugh Freeze,FBS Independents,2335,#071740,http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
+2022,1,1,0,Liberty,NA,1,0,Hugh Freeze,FBS Independents,2335,#071740,http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
+2022,1,2,0,Liberty,NA,0,1,Hugh Freeze,FBS Independents,2335,#071740,http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
+2022,1,3,0,Liberty,NA,0,1,Hugh Freeze,FBS Independents,2335,#071740,http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
+2022,1,1,0,Southern Mississippi,NA,1,0,Will Hall,Sun Belt,2572,#FFAA3C,http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png
+2022,1,2,0,Southern Mississippi,NA,0,1,Will Hall,Sun Belt,2572,#FFAA3C,http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png
+2022,1,3,0,Southern Mississippi,NA,0,1,Will Hall,Sun Belt,2572,#FFAA3C,http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png
+2022,1,4,0,Southern Mississippi,NA,1,0,Will Hall,Sun Belt,2572,#FFAA3C,http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png
 2022,1,1,14,Illinois,0.4320123,0,1,Bret Bielema,Big Ten,356,#f77329,http://a.espncdn.com/i/teamlogos/ncaa/500/356.png
 2022,1,1,14,Illinois,0.3515816,1,0,Bret Bielema,Big Ten,356,#f77329,http://a.espncdn.com/i/teamlogos/ncaa/500/356.png
 2022,1,1,14,Wyoming,0.7415451,0,1,Craig Bohl,Mountain West,2751,#533B22,http://a.espncdn.com/i/teamlogos/ncaa/500/2751.png
@@ -4109,7 +4381,7 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,11,Wisconsin,0.5065847,0,1,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
 2022,1,2,11,Wisconsin,0.5205202,0,1,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
 2022,1,3,10,Wisconsin,0.5362844,1,0,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
-2022,1,1,13,Wisconsin,0.2742032,0,1,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
+2022,1,1,13,Wisconsin,0.2728394,0,1,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
 2022,1,1,10,Wisconsin,0.0756946,0,1,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
 2022,1,1,10,Wisconsin,0.0653944,0,1,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
 2022,1,2,9,Wisconsin,0.0711226,1,0,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
@@ -4133,11 +4405,11 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,11,Wisconsin,0.021052,0,1,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
 2022,1,2,11,Wisconsin,0.0191348,0,1,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
 2022,1,3,10,Wisconsin,0.0182842,0,1,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
-2022,1,4,9,Wisconsin,0.0270623,0,1,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
+2022,1,4,9,Wisconsin,0.0270323,0,1,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
 2022,1,1,4,Wisconsin,0.0134962,1,0,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
 2022,1,1,4,Wisconsin,0.007831,0,1,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
 2022,1,2,3,Wisconsin,0.0078195,0,1,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
-2022,1,3,3,Wisconsin,0.0082848,1,0,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
+2022,1,3,2,Wisconsin,0.0081952,1,0,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
 2022,1,1,1,Wisconsin,0.0040107,0,1,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
 2022,1,2,0,Wisconsin,0.0040892,1,0,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
 2022,1,1,0,Wisconsin,0.0033079,0,1,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
@@ -4151,7 +4423,7 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,3,10,Wisconsin,0.0018191,1,0,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
 2022,1,4,10,Wisconsin,0.0018476,0,1,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
 2022,1,1,9,Wisconsin,0.0010413,0,1,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
-2022,1,2,9,Wisconsin,9.455e-4,0,1,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
+2022,1,2,8,Wisconsin,9.191e-4,0,1,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
 2022,1,1,7,Wisconsin,3.117e-4,0,1,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
 2022,1,2,7,Wisconsin,2.832e-4,0,1,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
 2022,1,3,6,Wisconsin,2.347e-4,1,0,Paul Chryst,Big Ten,275,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
@@ -4442,7 +4714,6 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,3,6,Rutgers,0.5900451,1,0,Greg Schiano,Big Ten,164,#d21034,http://a.espncdn.com/i/teamlogos/ncaa/500/164.png
 2022,1,1,6,Rutgers,0.5372032,0,1,Greg Schiano,Big Ten,164,#d21034,http://a.espncdn.com/i/teamlogos/ncaa/500/164.png
 2022,1,2,6,Rutgers,0.6295537,1,0,Greg Schiano,Big Ten,164,#d21034,http://a.espncdn.com/i/teamlogos/ncaa/500/164.png
-2022,1,3,6,Rutgers,0.6659286,1,0,Greg Schiano,Big Ten,164,#d21034,http://a.espncdn.com/i/teamlogos/ncaa/500/164.png
 2022,1,1,4,Boston College,0.3243824,0,1,Jeff Hafley,ACC,103,#88001a,http://a.espncdn.com/i/teamlogos/ncaa/500/103.png
 2022,1,1,4,Boston College,0.2659376,1,0,Jeff Hafley,ACC,103,#88001a,http://a.espncdn.com/i/teamlogos/ncaa/500/103.png
 2022,1,2,4,Boston College,0.2940932,0,1,Jeff Hafley,ACC,103,#88001a,http://a.espncdn.com/i/teamlogos/ncaa/500/103.png
@@ -4500,7 +4771,6 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,12,Boston College,0.2584624,1,0,Jeff Hafley,ACC,103,#88001a,http://a.espncdn.com/i/teamlogos/ncaa/500/103.png
 2022,1,2,12,Boston College,0.2856836,1,0,Jeff Hafley,ACC,103,#88001a,http://a.espncdn.com/i/teamlogos/ncaa/500/103.png
 2022,1,1,12,Boston College,0.2477898,1,0,Jeff Hafley,ACC,103,#88001a,http://a.espncdn.com/i/teamlogos/ncaa/500/103.png
-2022,1,2,12,Boston College,0.2643061,1,0,Jeff Hafley,ACC,103,#88001a,http://a.espncdn.com/i/teamlogos/ncaa/500/103.png
 2022,1,3,8,Boston College,0.2852462,1,0,Jeff Hafley,ACC,103,#88001a,http://a.espncdn.com/i/teamlogos/ncaa/500/103.png
 2022,1,1,8,Rutgers,0.8528727,0,1,Greg Schiano,Big Ten,164,#d21034,http://a.espncdn.com/i/teamlogos/ncaa/500/164.png
 2022,1,2,8,Rutgers,0.8646415,1,0,Greg Schiano,Big Ten,164,#d21034,http://a.espncdn.com/i/teamlogos/ncaa/500/164.png
@@ -5522,6 +5792,125 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,1,Miami,6.29e-5,0,1,Mario Cristobal,ACC,2390,#004325,http://a.espncdn.com/i/teamlogos/ncaa/500/2390.png
 2022,1,2,0,Miami,1.414e-4,0,1,Mario Cristobal,ACC,2390,#004325,http://a.espncdn.com/i/teamlogos/ncaa/500/2390.png
 2022,1,1,0,Miami,1.87e-5,0,1,Mario Cristobal,ACC,2390,#004325,http://a.espncdn.com/i/teamlogos/ncaa/500/2390.png
+2022,1,1,15,Syracuse,0.5096802,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,2,15,Syracuse,0.5163696,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,15,Syracuse,0.4577109,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,2,15,Syracuse,0.4559597,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,15,Syracuse,0.4021498,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,15,Syracuse,0.3947653,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,2,15,Syracuse,0.379685,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,15,Syracuse,0.3632977,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,2,15,Syracuse,0.3828743,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,3,15,Syracuse,0.4263604,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,9,Louisville,0.6164598,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,2,9,Louisville,0.622845,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,9,Louisville,0.5766278,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,2,9,Louisville,0.6130147,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,3,9,Louisville,0.6616577,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,6,Syracuse,0.4200386,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,6,Syracuse,0.3301359,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,2,6,Syracuse,0.3106467,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,5,Syracuse,0.2910254,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,4,Louisville,0.8163145,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,2,4,Louisville,0.8294812,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,3,4,Louisville,0.8027198,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,4,Louisville,0.7945745,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,2,4,Louisville,0.8084733,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,4,Louisville,0.7534226,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,2,1,Louisville,0.7715313,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,1,Syracuse,0.3568617,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,2,1,Syracuse,0.3043884,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,3,0,Syracuse,0.3560197,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,15,Syracuse,0.3183514,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,2,15,Syracuse,0.3464939,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,15,Syracuse,0.2890787,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,2,15,Syracuse,0.3256029,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,3,15,Syracuse,0.3664934,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,15,Syracuse,0.2577536,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,2,15,Syracuse,0.2724391,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,15,Syracuse,0.2472728,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,10,Syracuse,0.2058442,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,10,Louisville,0.8288078,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,2,10,Louisville,0.8569323,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,3,10,Louisville,0.8622732,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,10,Louisville,0.8062878,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,10,Louisville,0.7834304,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,10,Louisville,0.6832002,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,2,6,Louisville,0.7772199,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,3,6,Louisville,0.79856799999999994,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,4,5,Louisville,0.8466309,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,5,Syracuse,0.112646,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,2,5,Syracuse,0.1109471,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,5,Syracuse,0.0945033,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,5,Syracuse,0.0752559,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,2,5,Syracuse,0.0796329,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,3,5,Syracuse,0.0977161,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,1,Louisville,0.8679934,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,2,1,Louisville,0.8556699,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,3,1,Louisville,0.8381796,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,1,Syracuse,0.1155661,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,2,1,Syracuse,0.124775,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,3,0,Syracuse,0.1386209,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,14,Louisville,0.8518878,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,2,14,Louisville,0.8705946,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,3,14,Louisville,0.8807923,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,14,Louisville,0.8156569,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,14,Louisville,0.7750644,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,2,14,Louisville,0.7974664,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,3,14,Louisville,0.8214481,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,10,Syracuse,0.1705192,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,10,Syracuse,0.1466797,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,10,Syracuse,0.1609529,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,2,10,Syracuse,0.184866,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,3,10,Syracuse,0.1093472,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,7,Louisville,0.8908043,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,7,Louisville,0.7907393,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,2,7,Louisville,0.7768787,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,4,Louisville,0.7755762,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,4,Syracuse,0.1252072,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,2,4,Syracuse,0.1446201,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,3,4,Syracuse,0.170573,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,4,Syracuse,0.108744,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,4,Syracuse,0.0932648,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,2,4,Syracuse,0.0927348,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,3,4,Syracuse,0.1007685,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,2,Louisville,0.8736934,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,2,2,Louisville,0.8504644,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,2,Louisville,0.8475982,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,2,2,Louisville,0.8747291,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,3,0,Louisville,0.9075003,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,0,Syracuse,0.0568265,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,2,15,Syracuse,0.0582728,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,15,Syracuse,0.0429719,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,2,13,Syracuse,0.0534781,1,0,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,13,Louisville,0.971179,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,2,12,Louisville,0.9744261,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,12,Syracuse,0.012463,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,2,12,Syracuse,0.0130995,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,3,12,Syracuse,0.0127156,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,12,Syracuse,0.0117614,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,2,12,Syracuse,0.011352,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,3,12,Syracuse,0.013957,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,8,Syracuse,0.00639,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,8,Louisville,0.997671,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,2,8,Louisville,0.9969927,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,3,8,Louisville,0.9976982,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,8,Louisville,0.9969633,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,2,8,Louisville,0.9972324,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,3,8,Louisville,0.9975133,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,8,Louisville,0.9955073,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,2,8,Louisville,0.9959014,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,8,Louisville,0.9956554,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,2,8,Louisville,0.9958954,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,3,8,Louisville,0.9975081,1,0,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,4,3,Louisville,0.9997695,0,1,Scott Satterfield,ACC,97,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2022,1,1,3,Syracuse,4.865e-4,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,2,3,Syracuse,4.814e-4,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,3,Syracuse,4.282e-4,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,2,2,Syracuse,1.348e-4,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,3,2,Syracuse,1.222e-4,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,1,2,Syracuse,1.109e-4,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2022,1,2,0,Syracuse,0,0,1,Dino Babers,ACC,183,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
 2022,1,1,13,Virginia,0.463895,1,0,Tony Elliott,ACC,258,#f84c1e,http://a.espncdn.com/i/teamlogos/ncaa/500/258.png
 2022,1,1,13,Virginia,0.4213344,1,0,Tony Elliott,ACC,258,#f84c1e,http://a.espncdn.com/i/teamlogos/ncaa/500/258.png
 2022,1,2,13,Virginia,0.4276146,0,1,Tony Elliott,ACC,258,#f84c1e,http://a.espncdn.com/i/teamlogos/ncaa/500/258.png
@@ -5676,35 +6065,35 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,3,9,Air Force,0.5770591,1,0,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
 2022,1,1,4,Air Force,0.3445668,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
 2022,1,2,3,Air Force,0.3513706,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,1,1,Air Force,0.1981515,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,2,1,Air Force,0.1547789,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,1,0,Air Force,0.1687317,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,2,15,Air Force,0.1643855,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,3,15,Air Force,0.1539566,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,1,13,Air Force,0.1432853,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,2,13,Air Force,0.1461929,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,1,13,Air Force,0.0958207,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,2,13,Air Force,0.094723,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,1,13,Air Force,0.0908293,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,2,13,Air Force,0.101893,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,3,13,Air Force,0.1116026,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,1,1,Air Force,0.1724634,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,2,1,Air Force,0.1330273,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,1,0,Air Force,0.1456158,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,2,15,Air Force,0.1416525,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,3,15,Air Force,0.1322592,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,1,13,Air Force,0.1227979,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,2,13,Air Force,0.1253847,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,1,13,Air Force,0.081315,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,2,13,Air Force,0.080391,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,1,13,Air Force,0.0770516,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,2,13,Air Force,0.0865912,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,3,13,Air Force,0.0950836,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
 2022,1,1,8,Air Force,0.0658174,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
 2022,1,1,8,Air Force,0.057043,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
 2022,1,2,8,Air Force,0.0565391,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
 2022,1,3,8,Air Force,0.0607141,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,1,3,Air Force,0.0634486,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,2,3,Air Force,0.0661096,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,1,3,Air Force,0.0568362,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,2,3,Air Force,0.0613992,1,0,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,1,3,Air Force,0.0468584,1,0,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,2,3,Air Force,0.0511223,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,1,3,Air Force,0.04176,1,0,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,2,3,Air Force,0.0456054,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,3,3,Air Force,0.044268,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,1,3,Air Force,0.0375099,1,0,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,2,3,Air Force,0.0408772,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,1,0,Air Force,0.0389547,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
-2022,1,2,0,Air Force,0.0410618,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,1,3,Air Force,0.0532133,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,2,3,Air Force,0.0554624,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,1,3,Air Force,0.0476397,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,2,3,Air Force,0.051475,1,0,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,1,3,Air Force,0.0393177,1,0,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,2,3,Air Force,0.0428584,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,1,3,Air Force,0.0351067,1,0,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,2,3,Air Force,0.0382804,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,3,3,Air Force,0.0371775,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,1,3,Air Force,0.0316173,1,0,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,2,3,Air Force,0.0343834,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,1,0,Air Force,0.0328673,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2022,1,2,0,Air Force,0.0345993,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
 2022,1,1,15,Air Force,0.0126719,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
 2022,1,2,14,Air Force,0.0125971,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
 2022,1,1,11,Air Force,0.0062613,0,1,Troy Calhoun,Mountain West,2005,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
@@ -5766,13 +6155,13 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,10,New Mexico,0.1903552,0,1,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
 2022,1,2,9,New Mexico,0.1995704,0,1,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
 2022,1,3,9,New Mexico,0.2164019,0,1,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
-2022,1,2,4,New Mexico,0.1612928,0,1,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
-2022,1,1,6,New Mexico,0.0832091,1,0,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
-2022,1,1,6,New Mexico,0.0718441,1,0,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
-2022,1,2,6,New Mexico,0.0699829,0,1,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
-2022,1,1,5,New Mexico,0.0624294,1,0,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
-2022,1,1,4,New Mexico,0.0491209,0,1,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
-2022,1,2,4,New Mexico,0.0578499,1,0,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2022,1,1,8,New Mexico,0.0021594,0,1,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2022,1,1,6,New Mexico,0.0029077,1,0,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2022,1,1,6,New Mexico,0.0025543,1,0,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2022,1,2,6,New Mexico,0.0024879,0,1,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2022,1,1,5,New Mexico,0.0022375,1,0,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2022,1,1,4,New Mexico,0.0017692,0,1,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2022,1,2,3,New Mexico,0.0578009,1,0,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
 2022,1,1,1,New Mexico,0.0186909,1,0,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
 2022,1,1,0,New Mexico,0.0161321,1,0,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
 2022,1,1,0,New Mexico,0.025022,0,1,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
@@ -5785,12 +6174,12 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,3,9,New Mexico,0.0130632,0,1,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
 2022,1,1,8,New Mexico,0.0114354,0,1,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
 2022,1,2,8,New Mexico,0.0113439,0,1,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
-2022,1,1,7,New Mexico,0.0096654,0,1,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2022,1,1,7,New Mexico,0.0096515,0,1,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
 2022,1,1,6,New Mexico,0.0056132,1,0,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
 2022,1,1,6,New Mexico,0.0050981,1,0,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
 2022,1,2,5,New Mexico,0.0047638,0,1,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
 2022,1,1,5,New Mexico,0.004744,0,1,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
-2022,1,2,4,New Mexico,0.0047191,0,1,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2022,1,2,4,New Mexico,0.0046948,0,1,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
 2022,1,1,1,New Mexico,0.002641,0,1,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
 2022,1,2,0,New Mexico,0.0025812,0,1,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
 2022,1,3,15,New Mexico,0.002793,1,0,Danny Gonzales,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
@@ -6158,7 +6547,7 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,2,1,South Florida,0.9994608,1,0,Jeff Scott,American Athletic,58,#004A36,http://a.espncdn.com/i/teamlogos/ncaa/500/58.png
 2022,1,3,1,South Florida,0.9994871,1,0,Jeff Scott,American Athletic,58,#004A36,http://a.espncdn.com/i/teamlogos/ncaa/500/58.png
 2022,1,1,1,South Florida,0.9992425,1,0,Jeff Scott,American Athletic,58,#004A36,http://a.espncdn.com/i/teamlogos/ncaa/500/58.png
-2022,1,1,0,South Florida,0.9991201,1,0,Jeff Scott,American Athletic,58,#004A36,http://a.espncdn.com/i/teamlogos/ncaa/500/58.png
+2022,1,1,0,South Florida,0.9990459,1,0,Jeff Scott,American Athletic,58,#004A36,http://a.espncdn.com/i/teamlogos/ncaa/500/58.png
 2022,1,2,0,South Florida,0.9991698,1,0,Jeff Scott,American Athletic,58,#004A36,http://a.espncdn.com/i/teamlogos/ncaa/500/58.png
 2022,1,3,0,South Florida,0.9992358,1,0,Jeff Scott,American Athletic,58,#004A36,http://a.espncdn.com/i/teamlogos/ncaa/500/58.png
 2022,1,4,0,South Florida,0.9991617,0,1,Jeff Scott,American Athletic,58,#004A36,http://a.espncdn.com/i/teamlogos/ncaa/500/58.png
@@ -6317,7 +6706,6 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,1,Oklahoma State,0.3889368,1,0,Mike Gundy,Big 12,197,#FF6500,http://a.espncdn.com/i/teamlogos/ncaa/500/197.png
 2022,1,2,1,Oklahoma State,0.4170581,1,0,Mike Gundy,Big 12,197,#FF6500,http://a.espncdn.com/i/teamlogos/ncaa/500/197.png
 2022,1,3,1,Oklahoma State,0.4568729,1,0,Mike Gundy,Big 12,197,#FF6500,http://a.espncdn.com/i/teamlogos/ncaa/500/197.png
-2022,1,1,0,Central Michigan,0.5620983,0,1,Jim McElwain,Mid-American,2117,#6a0032,http://a.espncdn.com/i/teamlogos/ncaa/500/2117.png
 2022,1,1,0,Oklahoma State,0.3797254,1,0,Mike Gundy,Big 12,197,#FF6500,http://a.espncdn.com/i/teamlogos/ncaa/500/197.png
 2022,1,1,0,Oklahoma State,0.2903815,1,0,Mike Gundy,Big 12,197,#FF6500,http://a.espncdn.com/i/teamlogos/ncaa/500/197.png
 2022,1,1,0,Oklahoma State,0.2760709,1,0,Mike Gundy,Big 12,197,#FF6500,http://a.espncdn.com/i/teamlogos/ncaa/500/197.png
@@ -6974,29 +7362,28 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,3,Baylor,2e-7,0,1,Dave Aranda,Big 12,239,#004834,http://a.espncdn.com/i/teamlogos/ncaa/500/239.png
 2022,1,2,3,Baylor,4e-7,0,1,Dave Aranda,Big 12,239,#004834,http://a.espncdn.com/i/teamlogos/ncaa/500/239.png
 2022,1,3,2,Baylor,5e-7,0,1,Dave Aranda,Big 12,239,#004834,http://a.espncdn.com/i/teamlogos/ncaa/500/239.png
-2022,1,1,14,Arkansas State,0.4899127,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
-2022,1,1,13,Arkansas State,0.4054041,1,0,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
-2022,1,2,13,Arkansas State,0.3761311,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
-2022,1,1,13,Arkansas State,0.3719463,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
-2022,1,2,13,Arkansas State,0.4024527,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
-2022,1,3,13,Arkansas State,0.4192985,1,0,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
-2022,1,4,13,Arkansas State,0.4448816,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
-2022,1,1,13,Arkansas State,0.3539785,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
-2022,1,2,10,Arkansas State,0.0528211,1,0,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
-2022,1,1,7,Arkansas State,0.1753256,1,0,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
-2022,1,1,7,Arkansas State,0.1558238,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
-2022,1,1,6,Arkansas State,0.1469532,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
-2022,1,1,6,Arkansas State,0.1395062,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+2022,1,1,13,Arkansas State,0.1821106,1,0,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+2022,1,2,13,Arkansas State,0.1653253,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+2022,1,1,13,Arkansas State,0.1632766,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+2022,1,2,13,Arkansas State,0.1808501,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+2022,1,3,13,Arkansas State,0.1911694,1,0,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+2022,1,4,13,Arkansas State,0.2068136,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+2022,1,1,13,Arkansas State,0.1535525,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+2022,1,1,13,Arkansas State,0.2146098,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+2022,1,2,10,Arkansas State,0.1593535,1,0,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+2022,1,1,7,Arkansas State,0.0582215,1,0,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+2022,1,1,7,Arkansas State,0.0512824,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+2022,1,1,7,Arkansas State,0.0482437,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+2022,1,1,6,Arkansas State,0.0455935,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
 2022,1,2,6,Arkansas State,0.0491522,1,0,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
-2022,1,1,4,Arkansas State,0.0584955,1,0,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
-2022,1,2,3,Arkansas State,0.0493591,1,0,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
-2022,1,1,3,Arkansas State,0.0468755,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
-2022,1,2,2,Arkansas State,0.0527924,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
-2022,1,3,2,Arkansas State,0.0592132,1,0,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
-2022,1,1,1,Arkansas State,0.0373415,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
-2022,1,2,1,Arkansas State,0.038267,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
-2022,1,3,1,Arkansas State,0.04104,1,0,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
-2022,1,4,0,Arkansas State,0.0520865,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+2022,1,1,4,Arkansas State,0.0584162,1,0,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+2022,1,2,4,Arkansas State,0.049205,1,0,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+2022,1,1,3,Arkansas State,0.0467228,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+2022,1,3,3,Arkansas State,0.0579177,1,0,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+2022,1,1,3,Arkansas State,0.0360416,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+2022,1,2,3,Arkansas State,0.0369299,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+2022,1,3,3,Arkansas State,0.039618,1,0,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+2022,1,2,3,Arkansas State,0.0525473,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
 2022,1,4,0,Arkansas State,0.0520865,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
 2022,1,1,0,Arkansas State,0.0403722,0,1,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
 2022,1,2,15,Arkansas State,0.0393526,1,0,Butch Jones,Sun Belt,2032,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
@@ -7849,24 +8236,24 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,3,10,Ohio,0.2776778,1,0,Tim Albin,Mid-American,195,#295A29,http://a.espncdn.com/i/teamlogos/ncaa/500/195.png
 2022,1,1,10,Ohio,0.1337814,0,1,Tim Albin,Mid-American,195,#295A29,http://a.espncdn.com/i/teamlogos/ncaa/500/195.png
 2022,1,1,7,Ohio,0.0821627,1,0,Tim Albin,Mid-American,195,#295A29,http://a.espncdn.com/i/teamlogos/ncaa/500/195.png
-2022,1,1,7,Florida Atlantic,0.9686291,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
-2022,1,1,7,Florida Atlantic,0.9235811,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
-2022,1,1,6,Florida Atlantic,0.9175594,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
-2022,1,1,6,Ohio,0.1895951,0,1,Tim Albin,Mid-American,195,#295A29,http://a.espncdn.com/i/teamlogos/ncaa/500/195.png
-2022,1,2,4,Ohio,0.17538020000000001,0,1,Tim Albin,Mid-American,195,#295A29,http://a.espncdn.com/i/teamlogos/ncaa/500/195.png
-2022,1,3,4,Ohio,0.1597589,0,1,Tim Albin,Mid-American,195,#295A29,http://a.espncdn.com/i/teamlogos/ncaa/500/195.png
-2022,1,1,4,Florida Atlantic,0.7348487,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
-2022,1,1,4,Ohio,0.3934003,0,1,Tim Albin,Mid-American,195,#295A29,http://a.espncdn.com/i/teamlogos/ncaa/500/195.png
-2022,1,2,2,Ohio,0.3362051,1,0,Tim Albin,Mid-American,195,#295A29,http://a.espncdn.com/i/teamlogos/ncaa/500/195.png
-2022,1,3,2,Ohio,0.3417292,0,1,Tim Albin,Mid-American,195,#295A29,http://a.espncdn.com/i/teamlogos/ncaa/500/195.png
-2022,1,1,1,Florida Atlantic,0.7773137,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
-2022,1,1,1,Florida Atlantic,0.738234,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
-2022,1,2,1,Florida Atlantic,0.7680287,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
-2022,1,1,1,Florida Atlantic,0.6976233,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
-2022,1,2,1,Florida Atlantic,0.73371,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
-2022,1,3,0,Florida Atlantic,0.9435222,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
-2022,1,4,0,Florida Atlantic,0.9754745,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
-2022,1,4,0,Florida Atlantic,0.9754745,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
+2022,1,1,7,Florida Atlantic,0.9642773,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
+2022,1,1,7,Florida Atlantic,0.9135381,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
+2022,1,1,6,Florida Atlantic,0.9068048,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
+2022,1,1,6,Ohio,0.2180032,0,1,Tim Albin,Mid-American,195,#295A29,http://a.espncdn.com/i/teamlogos/ncaa/500/195.png
+2022,1,2,4,Ohio,0.2021897,0,1,Tim Albin,Mid-American,195,#295A29,http://a.espncdn.com/i/teamlogos/ncaa/500/195.png
+2022,1,3,4,Ohio,0.1847154,0,1,Tim Albin,Mid-American,195,#295A29,http://a.espncdn.com/i/teamlogos/ncaa/500/195.png
+2022,1,1,4,Florida Atlantic,0.7119642,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
+2022,1,1,4,Ohio,0.4359195,0,1,Tim Albin,Mid-American,195,#295A29,http://a.espncdn.com/i/teamlogos/ncaa/500/195.png
+2022,1,2,2,Ohio,0.3763782,1,0,Tim Albin,Mid-American,195,#295A29,http://a.espncdn.com/i/teamlogos/ncaa/500/195.png
+2022,1,3,2,Ohio,0.3821824,0,1,Tim Albin,Mid-American,195,#295A29,http://a.espncdn.com/i/teamlogos/ncaa/500/195.png
+2022,1,1,1,Florida Atlantic,0.7767324,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
+2022,1,1,1,Florida Atlantic,0.737585,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
+2022,1,2,1,Florida Atlantic,0.7674303,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
+2022,1,1,1,Florida Atlantic,0.696915,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
+2022,1,2,1,Florida Atlantic,0.7330539,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
+2022,1,3,0,Florida Atlantic,0.9433432,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
+2022,1,4,0,Florida Atlantic,0.9753941,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
+2022,1,4,0,Florida Atlantic,0.9753941,1,0,Willie Taggart,Conference USA,2226,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
 2022,1,1,14,Louisiana Tech,0.5080756,1,0,Sonny Cumbie,Conference USA,2348,#002d65,http://a.espncdn.com/i/teamlogos/ncaa/500/2348.png
 2022,1,2,14,Louisiana Tech,0.5441991,0,1,Sonny Cumbie,Conference USA,2348,#002d65,http://a.espncdn.com/i/teamlogos/ncaa/500/2348.png
 2022,1,1,14,Louisiana Tech,0.4476467,0,1,Sonny Cumbie,Conference USA,2348,#002d65,http://a.espncdn.com/i/teamlogos/ncaa/500/2348.png
@@ -8102,8 +8489,7 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,11,James Madison,0.00607,0,1,Curt Cignetti,Sun Belt,256,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
 2022,1,1,11,James Madison,0.0059267,0,1,Curt Cignetti,Sun Belt,256,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
 2022,1,2,10,James Madison,0.0056934,1,0,Curt Cignetti,Sun Belt,256,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
-2022,1,1,10,Middle Tennessee,0.9995978,1,0,Rick Stockstill,Conference USA,2393,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
-2022,1,1,10,James Madison,0.0026758,1,0,Curt Cignetti,Sun Belt,256,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
+2022,1,1,10,James Madison,0.0034126,1,0,Curt Cignetti,Sun Belt,256,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
 2022,1,2,10,James Madison,0.0029178,0,1,Curt Cignetti,Sun Belt,256,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
 2022,1,3,10,James Madison,0.0030853,1,0,Curt Cignetti,Sun Belt,256,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
 2022,1,1,9,Middle Tennessee,0.9996673,1,0,Rick Stockstill,Conference USA,2393,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
@@ -8149,17 +8535,17 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,12,James Madison,0.0023085,0,1,Curt Cignetti,Sun Belt,256,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
 2022,1,2,6,James Madison,8.764e-4,0,1,Curt Cignetti,Sun Belt,256,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
 2022,1,3,6,James Madison,8.883e-4,1,0,Curt Cignetti,Sun Belt,256,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
-2022,1,1,6,Middle Tennessee,0.9999512,1,0,Rick Stockstill,Conference USA,2393,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
-2022,1,2,6,Middle Tennessee,0.9999619,0,1,Rick Stockstill,Conference USA,2393,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
-2022,1,3,6,Middle Tennessee,0.9999667,1,0,Rick Stockstill,Conference USA,2393,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
-2022,1,1,6,Middle Tennessee,0.9999354,0,1,Rick Stockstill,Conference USA,2393,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
-2022,1,2,6,Middle Tennessee,0.9999449,0,1,Rick Stockstill,Conference USA,2393,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
-2022,1,3,6,Middle Tennessee,0.9999587,1,0,Rick Stockstill,Conference USA,2393,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
-2022,1,1,4,James Madison,1.843e-4,0,1,Curt Cignetti,Sun Belt,256,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
-2022,1,2,4,James Madison,1.827e-4,0,1,Curt Cignetti,Sun Belt,256,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
-2022,1,3,4,James Madison,1.874e-4,0,1,Curt Cignetti,Sun Belt,256,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
-2022,1,1,2,Middle Tennessee,0.9999983,1,0,Rick Stockstill,Conference USA,2393,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
-2022,1,2,2,Middle Tennessee,0.9999985,0,1,Rick Stockstill,Conference USA,2393,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
+2022,1,1,6,Middle Tennessee,0.9999627,1,0,Rick Stockstill,Conference USA,2393,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
+2022,1,2,6,Middle Tennessee,0.9999706,0,1,Rick Stockstill,Conference USA,2393,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
+2022,1,3,6,Middle Tennessee,0.9999742,1,0,Rick Stockstill,Conference USA,2393,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
+2022,1,1,6,Middle Tennessee,0.9999511,0,1,Rick Stockstill,Conference USA,2393,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
+2022,1,2,6,Middle Tennessee,0.9999581,0,1,Rick Stockstill,Conference USA,2393,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
+2022,1,3,6,Middle Tennessee,0.9999683,1,0,Rick Stockstill,Conference USA,2393,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
+2022,1,1,4,James Madison,1.609e-4,0,1,Curt Cignetti,Sun Belt,256,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
+2022,1,2,4,James Madison,1.595e-4,0,1,Curt Cignetti,Sun Belt,256,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
+2022,1,3,4,James Madison,1.637e-4,0,1,Curt Cignetti,Sun Belt,256,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
+2022,1,1,2,Middle Tennessee,0.9999986,1,0,Rick Stockstill,Conference USA,2393,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
+2022,1,2,2,Middle Tennessee,0.9999987,0,1,Rick Stockstill,Conference USA,2393,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
 2022,1,3,0,Middle Tennessee,1,0,1,Rick Stockstill,Conference USA,2393,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
 2022,1,1,15,SMU,0.5096802,0,1,Rhett Lashlee,American Athletic,2567,#E32F38,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
 2022,1,2,15,SMU,0.5248648,1,0,Rhett Lashlee,American Athletic,2567,#E32F38,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
@@ -8192,7 +8578,6 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,4,North Texas,0.6755648,1,0,Seth Littrell,Conference USA,249,#00853D,http://a.espncdn.com/i/teamlogos/ncaa/500/249.png
 2022,1,1,4,SMU,0.192962,1,0,Rhett Lashlee,American Athletic,2567,#E32F38,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
 2022,1,1,4,SMU,0.1546587,1,0,Rhett Lashlee,American Athletic,2567,#E32F38,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
-2022,1,2,4,SMU,0.1683495,1,0,Rhett Lashlee,American Athletic,2567,#E32F38,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
 2022,1,1,4,SMU,0.1371894,1,0,Rhett Lashlee,American Athletic,2567,#E32F38,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
 2022,1,2,3,SMU,0.1380239,0,1,Rhett Lashlee,American Athletic,2567,#E32F38,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
 2022,1,1,2,North Texas,0.9109988,0,1,Seth Littrell,Conference USA,249,#00853D,http://a.espncdn.com/i/teamlogos/ncaa/500/249.png
@@ -8316,7 +8701,7 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,3,13,USC,0.4421983,1,0,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,1,12,USC,0.3246437,0,1,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,2,12,USC,0.3300768,0,1,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
-2022,1,3,11,USC,0.3457599,1,0,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
+2022,1,3,11,USC,0.3457033,1,0,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,1,11,Rice,0.7379894,0,1,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,2,10,Rice,0.7438555,1,0,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,1,10,Rice,0.7049735,1,0,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
@@ -8332,7 +8717,7 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,5,Rice,0.5787131,0,1,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,2,4,Rice,0.5879345,0,1,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,3,3,Rice,0.6119472,1,0,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
-2022,1,4,3,Rice,0.6887217,0,1,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
+2022,1,4,3,Rice,0.6885338,0,1,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,1,2,USC,0.4409726,1,0,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,2,2,USC,0.4006731,0,1,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,1,1,USC,0.3963074,0,1,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
@@ -8341,14 +8726,14 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,3,0,USC,0.3960162,1,0,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,1,0,USC,0.2893544,1,0,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,2,14,USC,0.2914611,0,1,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
-2022,1,1,14,USC,0.2470067,0,1,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
+2022,1,1,14,USC,0.2471485,0,1,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,1,13,Rice,0.7740019,0,1,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,2,13,Rice,0.8008698,1,0,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,3,12,Rice,0.7920399,1,0,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,1,12,USC,0.1640915,1,0,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,1,11,USC,0.1305554,0,1,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,1,11,USC,0.1162877,1,0,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
-2022,1,1,10,USC,0.10983,0,1,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
+2022,1,1,10,USC,0.1097047,0,1,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,1,10,Rice,0.9262442,0,1,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,1,9,Rice,0.8751631,0,1,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,2,9,Rice,0.8725606,1,0,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
@@ -8363,7 +8748,7 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,3,Rice,0.9802364,0,1,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,1,2,Rice,0.9729588,0,1,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,2,2,Rice,0.9734994,0,1,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
-2022,1,1,1,Rice,0.94391,0,1,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
+2022,1,1,1,Rice,0.9438729,0,1,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,1,1,USC,0.0622935,1,0,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,2,1,USC,0.0610308,1,0,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,1,1,USC,0.0622165,1,0,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
@@ -8376,10 +8761,10 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,3,0,USC,0.0418481,1,0,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,1,14,Rice,0.9546288,0,1,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,2,14,Rice,0.9608889,1,0,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
-2022,1,3,13,Rice,0.9613532,1,0,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
+2022,1,3,13,Rice,0.9613213,1,0,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,1,13,Rice,0.9909427,0,1,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,2,13,Rice,0.992459,1,0,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
-2022,1,3,12,Rice,0.9941107,1,0,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
+2022,1,3,13,Rice,0.994099,1,0,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,1,12,Rice,0.9987505,0,1,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,1,12,Rice,0.9984251,1,0,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,2,11,Rice,0.9988887,1,0,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
@@ -8387,7 +8772,7 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,11,USC,0.0044885,0,1,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,1,10,USC,0.0042605,1,0,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,2,9,USC,0.0043675,1,0,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
-2022,1,1,9,USC,0.0036283,1,0,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
+2022,1,1,9,USC,0.0036376,1,0,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,1,8,Rice,0.9996728,1,0,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,1,8,Rice,0.9995861,0,1,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,2,7,Rice,0.9996568,1,0,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
@@ -8399,7 +8784,7 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,2,3,USC,0.0017743,0,1,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,3,3,USC,0.0016972,0,1,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,1,2,USC,0.0014724,1,0,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
-2022,1,1,1,USC,0.0012583,0,1,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
+2022,1,1,1,USC,0.0012759,0,1,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,1,1,Rice,0.9999566,1,0,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,2,0,Rice,0.99996,0,1,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,3,14,Rice,0.9999641,1,0,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
@@ -8419,7 +8804,7 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,1,8,USC,9.42e-5,0,1,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,2,7,USC,7.12e-5,1,0,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,1,6,USC,3.7e-5,0,1,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
-2022,1,1,6,USC,1.91e-5,0,1,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
+2022,1,1,6,USC,1.94e-5,0,1,Lincoln Riley,Pac-12,30,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
 2022,1,1,6,Rice,0.9999989,0,1,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,2,5,Rice,0.9999993,0,1,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
 2022,1,3,4,Rice,0.9999996,1,0,Mike Bloomgren,Conference USA,242,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
@@ -8706,6 +9091,142 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,2,0,UT San Antonio,0.9594185,1,0,Jeff Traylor,Conference USA,2636,#002A5C,http://a.espncdn.com/i/teamlogos/ncaa/500/2636.png
 2022,1,1,0,UT San Antonio,0.7036158,1,0,Jeff Traylor,Conference USA,2636,#002A5C,http://a.espncdn.com/i/teamlogos/ncaa/500/2636.png
 2022,1,2,0,Houston,NA,0,1,Dana Holgorsen,American Athletic,248,#C90822,http://a.espncdn.com/i/teamlogos/ncaa/500/248.png
+2022,1,1,15,Hawai'i,0.5171004,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,15,Hawai'i,0.5143851,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,3,15,Hawai'i,0.5192596,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,13,Hawai'i,0.2981811,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,13,Hawai'i,0.3485724,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,3,13,Hawai'i,0.4050042,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,11,Western Kentucky,0.5918188,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,11,Western Kentucky,0.5554797,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,11,Western Kentucky,0.4717817,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,2,11,Western Kentucky,0.5190434,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,3,11,Western Kentucky,0.5899794,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,4,8,Western Kentucky,0.613513,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,8,Hawai'i,0.328187,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,8,Hawai'i,0.3529313,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,3,8,Hawai'i,0.3937611,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,7,Western Kentucky,0.6268345,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,7,Western Kentucky,0.5835703,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,2,7,Western Kentucky,0.6198042,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,3,7,Western Kentucky,0.6559982,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,6,Hawai'i,0.3689772,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,6,Hawai'i,0.3940012,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,3,6,Hawai'i,0.4208397,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,6,Hawai'i,0.2810883,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,6,Hawai'i,0.2488422,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,6,Hawai'i,0.2784543,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,6,Hawai'i,0.3137863,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,3,2,Hawai'i,0.3550521,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,2,Western Kentucky,0.5782056,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,2,2,Western Kentucky,0.5393114,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,2,Western Kentucky,0.5747603,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,2,2,Western Kentucky,0.5841458,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,2,Western Kentucky,0.4846392,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,2,Western Kentucky,0.46147,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,2,0,Western Kentucky,0.468539,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,15,Western Kentucky,0.4488496,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,15,Western Kentucky,0.4310864,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,2,13,Western Kentucky,0.4313969,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,13,Hawai'i,0.6384752,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,13,Hawai'i,0.5963565,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,13,Hawai'i,0.5943886,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,3,11,Hawai'i,0.5981784,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,11,Hawai'i,0.851918,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,11,Hawai'i,0.8313817,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,11,Hawai'i,0.8326132,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,11,Hawai'i,0.8359909,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,11,Hawai'i,0.7839649,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,9,Hawai'i,0.7242389,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,9,Hawai'i,0.7335688,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,3,9,Hawai'i,0.7428544,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,7,Hawai'i,0.7039827,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,7,Western Kentucky,0.3754269,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,2,7,Western Kentucky,0.4010995,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,3,7,Western Kentucky,0.396463,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,7,Western Kentucky,0.3433761,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,2,7,Western Kentucky,0.3724051,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,3,7,Western Kentucky,0.3895488,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,4,3,Western Kentucky,0.3224192,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,2,Western Kentucky,0.2658349,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,2,Hawai'i,0.8857132,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,2,Hawai'i,0.8990119,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,3,1,Hawai'i,0.8691556,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,1,Western Kentucky,0.0752497,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,2,1,Western Kentucky,0.0843827,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,3,1,Western Kentucky,0.0848244,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,0,Hawai'i,0.8529319,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,15,Western Kentucky,0.1147863,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,2,15,Western Kentucky,0.1215123,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,3,15,Western Kentucky,0.1439102,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,13,Hawai'i,0.8675412,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,13,Hawai'i,0.8453951,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,13,Hawai'i,0.8405064,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,13,Hawai'i,0.8529704,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,3,13,Hawai'i,0.8902785,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,13,Hawai'i,0.8130639,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,13,Hawai'i,0.8174801,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,3,13,Hawai'i,0.843132,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,10,Western Kentucky,0.1137547,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,2,10,Western Kentucky,0.1206072,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,3,10,Western Kentucky,0.1431062,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,9,Hawai'i,0.8562176,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,9,Hawai'i,0.8324453,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,9,Hawai'i,0.8595089,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,3,9,Hawai'i,0.8819944,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,4,7,Hawai'i,0.9003002,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,7,Western Kentucky,0.058334,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,7,Hawai'i,0.9616935,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,7,Hawai'i,0.9533718,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,7,Hawai'i,0.9441273,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,3,7,Hawai'i,0.9546811,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,4,7,Hawai'i,0.9713684,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,7,Hawai'i,0.9603339,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,7,Hawai'i,0.9629679,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,3,7,Hawai'i,0.9512838,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,4,3,Hawai'i,0.9732056,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,3,Western Kentucky,0.0324175,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,3,Western Kentucky,0.0224697,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,2,3,Western Kentucky,0.0246151,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,1,Western Kentucky,0.0152987,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,1,Hawai'i,0.9711196,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,1,Hawai'i,0.9669212,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,3,1,Hawai'i,0.9740008,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,15,Western Kentucky,0.0175036,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,15,Western Kentucky,0.0143432,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,2,14,Western Kentucky,0.0175825,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,14,Western Kentucky,0.0143525,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,14,Western Kentucky,0.0133929,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,2,12,Western Kentucky,0.0119361,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,12,Hawai'i,0.9943177,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,12,Hawai'i,0.9948459,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,12,Hawai'i,0.9892412,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,12,Hawai'i,0.9897459,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,12,Hawai'i,0.98766,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,12,Hawai'i,0.9869897,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,12,Hawai'i,0.9784261,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,9,Hawai'i,0.9865332,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,9,Western Kentucky,0.0107257,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,9,Western Kentucky,0.0093802,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,2,9,Western Kentucky,0.0094012,1,0,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,9,Western Kentucky,0.0083035,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,9,Western Kentucky,0.0077832,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,9,Western Kentucky,0.0059018,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,2,5,Western Kentucky,0.0028383,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,5,Western Kentucky,5.803e-4,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2022,1,1,5,Hawai'i,0.9999337,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,5,Hawai'i,0.9999128,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,5,Hawai'i,0.9998879,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,5,Hawai'i,0.9998794,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,5,Hawai'i,0.9998525,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,5,Hawai'i,0.9998814,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,3,5,Hawai'i,0.9999098,1,0,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,5,Hawai'i,0.9997912,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,5,Hawai'i,0.9994285,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,2,5,Hawai'i,0.999582,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,3,1,Hawai'i,0.9999921,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,4,0,Hawai'i,0.9999306,0,1,Timmy Chang,Mountain West,62,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+2022,1,1,0,Western Kentucky,0,0,1,Tyson Helton,Conference USA,98,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
 2022,1,1,14,Toledo,0.4733001,0,1,Jason Candle,Mid-American,2649,#ffffff,http://a.espncdn.com/i/teamlogos/ncaa/500/2649.png
 2022,1,2,14,Toledo,0.4760682,0,1,Jason Candle,Mid-American,2649,#ffffff,http://a.espncdn.com/i/teamlogos/ncaa/500/2649.png
 2022,1,3,14,Toledo,0.5372915,0,1,Jason Candle,Mid-American,2649,#ffffff,http://a.espncdn.com/i/teamlogos/ncaa/500/2649.png
