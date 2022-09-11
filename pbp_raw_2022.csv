@@ -5983,6 +5983,150 @@ year,week,down,clock_minutes,pos_team,def_wp_before,pass,rush,name,conference,te
 2022,1,2,4,Virginia,0.004492,0,1,Tony Elliott,ACC,258,#f84c1e,http://a.espncdn.com/i/teamlogos/ncaa/500/258.png
 2022,1,1,4,Virginia,0.003438,0,1,Tony Elliott,ACC,258,#f84c1e,http://a.espncdn.com/i/teamlogos/ncaa/500/258.png
 2022,1,2,0,Virginia,1e-7,0,1,Tony Elliott,ACC,258,#f84c1e,http://a.espncdn.com/i/teamlogos/ncaa/500/258.png
+2022,1,1,14,Georgia Tech,0.5071129,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,14,Clemson,0.4959233,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,13,Clemson,0.4771852,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,3,13,Clemson,0.4487338,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,12,Georgia Tech,0.5128329,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,2,12,Georgia Tech,0.5544083,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,3,11,Georgia Tech,0.558944,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,10,Clemson,0.431423,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,10,Clemson,0.4466481,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,9,Clemson,0.3698003,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,8,Clemson,0.3429477,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,8,Georgia Tech,0.5042756,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,2,8,Georgia Tech,0.4910224,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,3,8,Georgia Tech,0.4793279,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,7,Georgia Tech,0.4644119,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,2,7,Georgia Tech,0.5007277,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,3,6,Georgia Tech,0.5358927,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,4,6,Georgia Tech,0.5183562,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,5,Georgia Tech,0.4461068,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,2,5,Georgia Tech,0.4975878,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,3,4,Georgia Tech,0.585629,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,3,Clemson,0.452052,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,3,Clemson,0.4898285,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,3,2,Clemson,0.5267998,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,2,Georgia Tech,0.4577999,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,2,1,Georgia Tech,0.4893153,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,3,1,Georgia Tech,0.5273303,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,0,Clemson,0.5210996,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,0,Clemson,0.5417537,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,3,14,Clemson,0.5782559,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,13,Georgia Tech,0.459563,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,2,13,Georgia Tech,0.5644033,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,3,12,Georgia Tech,0.5597648,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,11,Clemson,0.2976491,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,11,Clemson,0.3027094,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,3,10,Clemson,0.3159189,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,4,9,Clemson,0.413674,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,9,Georgia Tech,0.6995703,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,2,9,Georgia Tech,0.7002818,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,8,Georgia Tech,0.6751682,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,2,8,Georgia Tech,0.6576484,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,8,Georgia Tech,0.6359481,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,7,Georgia Tech,0.600452,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,2,7,Georgia Tech,0.645379,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,3,7,Georgia Tech,0.668276,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,6,Clemson,0.2526091,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,6,Clemson,0.2722263,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,3,5,Clemson,0.2620309,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,5,Clemson,0.2000523,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,4,Clemson,0.184868,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,4,Clemson,0.1611692,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,3,Clemson,0.1650026,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,3,3,Clemson,0.1831968,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,3,Georgia Tech,0.8868891,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,3,Georgia Tech,0.8725711,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,2,2,Georgia Tech,0.8695001,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,2,Georgia Tech,0.8621706,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,2,2,Georgia Tech,0.8724996,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,1,Georgia Tech,0.872591,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,2,1,Georgia Tech,0.8815475,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,3,1,Georgia Tech,0.8888656,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,1,Clemson,0.1446039,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,1,Clemson,0.142358,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,0,Clemson,0.1337483,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,0,Clemson,0.1380222,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,3,0,Clemson,0.1436522,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,14,Clemson,0.1144563,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,14,Clemson,0.1271175,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,3,13,Clemson,0.1207367,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,12,Georgia Tech,0.8110372,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,12,Georgia Tech,0.8037732,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,2,12,Georgia Tech,0.8488977,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,3,11,Georgia Tech,0.8344398,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,4,11,Georgia Tech,0.8940322,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,11,Georgia Tech,0.8094353,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,10,Georgia Tech,0.8095199,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,2,9,Georgia Tech,0.8059756,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,3,9,Georgia Tech,0.8290923,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,9,Clemson,0.2689944,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,9,Clemson,0.3006769,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,9,Clemson,0.228451,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,8,Clemson,0.2201199,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,8,Clemson,0.2003185,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,7,Clemson,0.1696522,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,7,Clemson,0.1636617,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,7,Clemson,0.1786767,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,7,Clemson,0.1450981,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,6,Clemson,0.1525592,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,3,5,Clemson,0.1768905,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,5,Georgia Tech,0.8292376,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,2,5,Georgia Tech,0.8655557,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,3,4,Georgia Tech,0.8419893,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,4,Clemson,0.1485764,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,3,Clemson,0.130523,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,3,3,Clemson,0.1518792,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,3,Clemson,0.1201339,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,2,Clemson,0.1017501,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,2,Clemson,0.0953716,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,1,Clemson,0.0861657,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,1,Clemson,0.0839053,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,1,Clemson,0.0792497,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,1,Georgia Tech,0.9547817,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,2,0,Georgia Tech,0.9583161,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,3,0,Georgia Tech,0.9623155,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,0,Clemson,0.0379298,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,14,Clemson,0.0486445,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,3,14,Clemson,0.0441932,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,13,Clemson,0.0229424,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,13,Clemson,0.0258011,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,3,13,Clemson,0.0268411,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,12,Georgia Tech,0.969075,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,2,12,Georgia Tech,0.9740586,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,11,Georgia Tech,0.9577868,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,2,11,Georgia Tech,0.9612379,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,3,11,Georgia Tech,0.969132,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,4,10,Georgia Tech,0.9738522,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,10,Clemson,0.018293,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,10,Clemson,0.0154911,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,9,Clemson,0.0133478,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,9,Clemson,0.01403,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,3,9,Clemson,0.0160387,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,8,Georgia Tech,0.9875926,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,2,8,Georgia Tech,0.9880557,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,3,8,Georgia Tech,0.9907792,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,7,Clemson,0.0044245,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,6,Clemson,0.004173,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,3,6,Clemson,0.0047592,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,6,Clemson,0.0026357,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,6,Georgia Tech,0.9991733,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,2,5,Georgia Tech,0.9993406,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,3,5,Georgia Tech,0.9995539,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,1,5,Clemson,9.225e-4,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,4,Clemson,8.095e-4,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,3,4,Clemson,7.828e-4,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,3,Clemson,3.833e-4,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,3,Clemson,2.675e-4,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,3,3,Clemson,2.817e-4,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,2,Clemson,1.811e-4,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,2,Clemson,1.196e-4,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,2,Clemson,1.01e-4,0,1,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,2,1,Clemson,1.451e-4,1,0,Dabo Swinney,ACC,228,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2022,1,1,1,Georgia Tech,0.9999963,1,0,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,2,1,Georgia Tech,0.9999938,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2022,1,3,0,Georgia Tech,0.9999059,0,1,Geoff Collins,ACC,59,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
 2022,1,1,13,Fresno State,0.4535062,0,1,Jeff Tedford,Mountain West,278,#c41230,http://a.espncdn.com/i/teamlogos/ncaa/500/278.png
 2022,1,2,13,Fresno State,0.4512098,1,0,Jeff Tedford,Mountain West,278,#c41230,http://a.espncdn.com/i/teamlogos/ncaa/500/278.png
 2022,1,1,13,Fresno State,0.4093718,1,0,Jeff Tedford,Mountain West,278,#c41230,http://a.espncdn.com/i/teamlogos/ncaa/500/278.png
