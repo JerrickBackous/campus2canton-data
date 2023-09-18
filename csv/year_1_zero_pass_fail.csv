@@ -124,7 +124,7 @@ Class,season,player,logo,team,mascot,conference_abbrev,rating,y10,player_receivi
 2021,2017,Jhamon Ausbon,Texas A&M,Texas A&M,Aggies,SEC,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-check,circle-xmark
 2024,2020,Jermaine Burton,Georgia,Georgia,Bulldogs,SEC,,star,circle-check,circle-check,circle-xmark,circle-check,circle-xmark,circle-check,circle-check,circle-xmark
 2019,2014,Johnnie Dixon,Ohio State,Ohio State,Buckeyes,Big Ten,,star,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-xmark
-2026,2023,Jaquaize Pettaway,Oklahoma,Oklahoma,Sooners,Big 12,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
+2026,2023,Jaquaize Pettaway,Oklahoma,Oklahoma,Sooners,Big 12,,star,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-xmark,circle-xmark
 2019,2016,Kyle Davis,Auburn,Auburn,Tigers,SEC,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-check,circle-xmark
 2018,2014,Allen Lazard,Iowa State,Iowa State,Cyclones,Big 12,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-check,circle-xmark
 2020,2017,Henry Ruggs III,Alabama,Alabama,Crimson Tide,SEC,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-check,circle-check
@@ -178,7 +178,7 @@ Class,season,player,logo,team,mascot,conference_abbrev,rating,y10,player_receivi
 2020,2016,Donnie Corley,Michigan State,Michigan State,Spartans,Big Ten,,star,circle-check,circle-check,circle-check,circle-check,circle-xmark,circle-check,circle-check,circle-xmark
 2024,2019,Ramel Keyton,Tennessee,Tennessee,Volunteers,SEC,,star,circle-xmark,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2023,2019,Trey Palmer,LSU,LSU,Tigers,SEC,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
-2026,2023,Eugene Wilson,Florida,Florida,Gators,SEC,,star,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-xmark
+2026,2023,Eugene Wilson,Florida,Florida,Gators,SEC,,star,circle-check,circle-check,circle-xmark,circle-check,circle-xmark,circle-check,circle-check,circle-xmark
 2022,2019,David Bell,Purdue,Purdue,Boilermakers,Big Ten,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-check,circle-check,circle-check,circle-xmark
 2024,2020,Johnny Wilson,Arizona State,Arizona State,Sun Devils,Pac-12,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2023,2020,Malachi Wideman,Tennessee,Tennessee,Volunteers,SEC,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
@@ -216,8 +216,9 @@ Class,season,player,logo,team,mascot,conference_abbrev,rating,y10,player_receivi
 2023,2017,Jeremiah Holloman,Georgia,Georgia,Bulldogs,SEC,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2023,2017,OrTre Smith,South Carolina,South Carolina,Gamecocks,SEC,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-check,circle-xmark
 2022,2019,Lance Wilhoite,Oregon,Oregon,Ducks,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
-2026,2023,Jaden Greathouse,Notre Dame,Notre Dame,Fighting Irish,FBS,,star,circle-xmark,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
+2026,2023,Jaden Greathouse,Notre Dame,Notre Dame,Fighting Irish,FBS,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-check,circle-xmark
 2018,2014,Mark Andrews,Oklahoma,Oklahoma,Sooners,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
+2026,2023,Nathaniel Joseph,Miami,Miami,Hurricanes,ACC,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2023,2019,Puka Nacua,Washington,Washington,Huskies,Pac-12,,star,circle-xmark,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-xmark
 2025,2022,Kyler Kasper,Oregon,Oregon,Ducks,Pac-12,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2025,2022,Kojo Antwi,Ohio State,Ohio State,Buckeyes,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
@@ -242,7 +243,7 @@ Class,season,player,logo,team,mascot,conference_abbrev,rating,y10,player_receivi
 2023,2018,Chase Cota,UCLA,UCLA,Bruins,Pac-12,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-check,circle-xmark
 2023,2020,Thaiu Jones-Bell,Alabama,Alabama,Crimson Tide,SEC,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2020,2017,CeeDee Lamb,Oklahoma,Oklahoma,Sooners,Big 12,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-check,circle-check
-2026,2023,Robby Washington,Miami,Miami,Hurricanes,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
+2026,2023,Robby Washington,Miami,Miami,Hurricanes,ACC,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2024,2021,Seven Mcgee,Oregon,Oregon,Ducks,Pac-12,,star,circle-xmark,circle-xmark,circle-check,circle-check,circle-check,circle-check,circle-check,circle-check
 2019,2016,Ahmmon Richards,Miami,Miami,Hurricanes,ACC,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-check,circle-xmark
 2018,2014,Cam Denson,Arizona,Arizona,Wildcats,Pac-12,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
@@ -306,7 +307,7 @@ Class,season,player,logo,team,mascot,conference_abbrev,rating,y10,player_receivi
 2026,2023,Anthony Evans III,Georgia,Georgia,Bulldogs,SEC,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2023,2020,Jalin Hyatt,Tennessee,Tennessee,Volunteers,SEC,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-check,circle-xmark
 2024,2020,Javon Baker,Alabama,Alabama,Crimson Tide,SEC,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
-2026,2023,Micah Tease,Texas A&M,Texas A&M,Aggies,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
+2026,2023,Micah Tease,Texas A&M,Texas A&M,Aggies,SEC,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2022,2019,Jalen Curry,Arizona,Arizona,Wildcats,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2024,2021,Micah Crowell,NC State,NC State,Wolfpack,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2017,2014,Ja'Vonn Harrison,Florida State,Florida State,Seminoles,ACC,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
@@ -318,7 +319,7 @@ Class,season,player,logo,team,mascot,conference_abbrev,rating,y10,player_receivi
 2022,2019,Makiya Tongue,Georgia,Georgia,Bulldogs,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2024,2020,Porter Rooks,NC State,NC State,Wolfpack,ACC,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-check,circle-xmark
 2024,2021,Gavin Blackwell,North Carolina,North Carolina,Tar Heels,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
-2026,2023,Raymond Cottrell,Texas A&M,Texas A&M,Aggies,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
+2026,2023,Raymond Cottrell,Texas A&M,Texas A&M,Aggies,SEC,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2024,2020,Malcolm Johnson Jr.,Auburn,Auburn,Tigers,SEC,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2017,2014,Noah Brown,Ohio State,Ohio State,Buckeyes,Big Ten,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2024,2020,Darin Turner,Arkansas,Arkansas,Razorbacks,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
@@ -333,7 +334,7 @@ Class,season,player,logo,team,mascot,conference_abbrev,rating,y10,player_receivi
 2026,2023,Rico Flores,Notre Dame,Notre Dame,Fighting Irish,FBS,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2026,2023,Ashton Cozart,Oregon,Oregon,Ducks,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2020,2016,Bryan Edwards,South Carolina,South Carolina,Gamecocks,SEC,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-check,circle-xmark
-2026,2023,Malik Elzy,Illinois,Illinois,Fighting Illini,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
+2026,2023,Malik Elzy,Illinois,Illinois,Fighting Illini,Big Ten,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2026,2023,Taeshaun Lyons,Washington,Washington,Huskies,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2024,2019,Khafre Brown,North Carolina,North Carolina,Tar Heels,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2026,2023,Jaren Hamilton,Alabama,Alabama,Crimson Tide,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
@@ -370,7 +371,7 @@ Class,season,player,logo,team,mascot,conference_abbrev,rating,y10,player_receivi
 2026,2023,Adam Hopkins,Colorado,Colorado,Buffaloes,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2026,2023,Joshua Manning,Missouri,Missouri,Tigers,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2026,2023,Omarion Miller,Colorado,Colorado,Buffaloes,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
-2026,2023,Mikey Matthews,Utah,Utah,Utes,Pac-12,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
+2026,2023,Mikey Matthews,Utah,Utah,Utes,Pac-12,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-check,circle-xmark
 2019,2016,Riley Ridley,Georgia,Georgia,Bulldogs,SEC,,star,circle-check,circle-check,circle-xmark,circle-check,circle-xmark,circle-check,circle-check,circle-xmark
 2017,2014,Dominique Booth,Indiana,Indiana,Hoosiers,Big Ten,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2022,2019,Drake London,USC,USC,Trojans,Pac-12,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-check,circle-xmark
