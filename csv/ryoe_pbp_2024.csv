@@ -1,0 +1,277 @@
+year,week,down,clock_minutes,half_clock.minutes,pos_team,def_pos_team,wp_before,def_wp_before,pass,rush,xp,name,conference,team_id,color,logo
+2024,1,1,14,29,Florida State,Georgia Tech,0.5040517,0.4959483,1,0,0.4419806897640228,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,13,28,Florida State,Georgia Tech,0.5557943,0.4442057,0,1,0.4482049345970154,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,2,13,28,Florida State,Georgia Tech,0.6003267,0.3996733,1,0,0.31510111689567566,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,12,27,Florida State,Georgia Tech,0.609672,0.390328,0,1,0.44701430201530457,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,2,12,27,Florida State,Georgia Tech,0.5911359,0.4088641,0,1,0.5411943197250366,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,11,26,Florida State,Georgia Tech,0.6420996,0.3579004,0,1,0.44759371876716614,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,10,25,Florida State,Georgia Tech,0.6584971,0.3415029,0,1,0.6524552702903748,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,10,25,Georgia Tech,Florida State,0.2159097,0.7840903,0,1,0.42247074842453003,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,10,25,Georgia Tech,Florida State,0.2509448,0.7490552,0,1,0.43064960837364197,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,8,23,Georgia Tech,Florida State,0.2722411,0.7277589,1,0,0.4450055956840515,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,8,23,Georgia Tech,Florida State,0.3521395,0.6478605,0,1,0.3168396055698395,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,2,7,22,Georgia Tech,Florida State,0.3722345,0.6277655,0,1,0.11052631586790085,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,7,22,Georgia Tech,Florida State,0.4280979,0.5719021,0,1,0.06865178048610687,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,7,22,Florida State,Georgia Tech,0.5681152,0.4318848,0,1,0.41829627752304077,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,2,6,21,Florida State,Georgia Tech,0.5570697,0.4429303,0,1,0.514647364616394,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,3,5,20,Florida State,Georgia Tech,0.5327588,0.4672412,1,0,0.8019319176673889,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,5,20,Florida State,Georgia Tech,0.6523364,0.3476636,1,0,0.4340859353542328,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,2,4,19,Florida State,Georgia Tech,0.6472614,0.3527386,1,0,0.4387439489364624,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,4,19,Florida State,Georgia Tech,0.6728181,0.3271819,1,0,0.4325292110443115,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,2,4,19,Florida State,Georgia Tech,0.6491092,0.3508908,0,1,0.482494056224823,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,3,3,18,Florida State,Georgia Tech,0.632913,0.367087,0,1,0.7133380174636841,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,4,3,18,Florida State,Georgia Tech,0.5719958,0.4280042,1,0,0.7773415446281433,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,2,17,Georgia Tech,Florida State,0.5067818,0.4932182,0,1,0.43803489208221436,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,2,2,17,Georgia Tech,Florida State,0.4307991,0.5692009,1,0,0.6407994627952576,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,3,1,16,Georgia Tech,Florida State,0.3862911,0.6137089,0,1,0.7452381253242493,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,0,15,Florida State,Georgia Tech,0.5636623,0.4363377,1,0,0.4175995886325836,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,0,15,Florida State,Georgia Tech,0.602727,0.397273,0,1,0.4402209222316742,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,2,14,14,Florida State,Georgia Tech,0.555668,0.444332,0,1,0.6450330018997192,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,13,13,Florida State,Georgia Tech,0.6373355,0.3626645,1,0,0.4380750358104706,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,13,13,Florida State,Georgia Tech,0.6708815,0.3291185,1,0,0.4322567582130432,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,2,12,12,Florida State,Georgia Tech,0.6536635,0.3463365,0,1,0.5659967064857483,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,3,11,11,Florida State,Georgia Tech,0.6543009,0.3456991,0,1,0.3996008336544037,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,11,11,Georgia Tech,Florida State,0.3632194,0.6367806,1,0,0.4334493577480316,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,2,10,10,Georgia Tech,Florida State,0.3322001,0.6677999,0,1,0.5179086327552795,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,3,10,10,Georgia Tech,Florida State,0.3266717,0.6733283,1,0,0.8039239645004272,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,9,9,Georgia Tech,Florida State,0.4045006,0.5954994,0,1,0.43678241968154907,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,2,8,8,Georgia Tech,Florida State,0.4105618,0.5894382,0,1,0.37087374925613403,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,8,8,Georgia Tech,Florida State,0.4536973,0.5463027,1,0,0.4507478177547455,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,2,8,8,Georgia Tech,Florida State,0.4261803,0.5738197,0,1,0.5166582465171814,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,7,7,Georgia Tech,Florida State,0.4737433,0.5262567,0,1,0.4277353584766388,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,2,6,6,Georgia Tech,Florida State,0.4829816,0.5170184,0,1,0.28720206022262573,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,5,5,Georgia Tech,Florida State,0.4896703,0.5103297,0,1,0.32009002566337585,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,2,5,5,Georgia Tech,Florida State,0.4813754,0.5186246,0,1,0.3386104106903076,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,4,4,Georgia Tech,Florida State,0.5630011,0.4369989,0,1,0.19389399886131287,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,2,3,3,Georgia Tech,Florida State,0.5542162,0.4457838,0,1,0.1759694218635559,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,3,3,3,Georgia Tech,Florida State,0.5506476,0.4493524,0,1,0.11526045203208923,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,2,2,Florida State,Georgia Tech,0.3948952,0.6051048,1,0,0.4911375641822815,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,2,2,2,Florida State,Georgia Tech,0.384131,0.615869,0,1,0.5812690854072571,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,3,1,1,Florida State,Georgia Tech,0.3795907,0.6204093,0,1,0.7807552814483643,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,1,1,Florida State,Georgia Tech,0.4063719,0.5936281,1,0,0.6391324400901794,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,2,1,1,Florida State,Georgia Tech,0.4096881,0.5903119,0,1,0.7115527987480164,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,0,0,Florida State,Georgia Tech,0.4181519,0.5818481,1,0,0.8213853240013123,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,2,0,0,Florida State,Georgia Tech,0.4103492,0.5896508,1,0,0.8006585240364075,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,3,0,0,Florida State,Georgia Tech,0.396242,0.603758,0,1,0.8206947445869446,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,14,29,Georgia Tech,Florida State,0.5243366,0.4756634,0,1,0.35606494545936584,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,14,29,Georgia Tech,Florida State,0.6390471,0.3609529,0,1,0.42398595809936523,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,2,13,28,Georgia Tech,Florida State,0.6339916,0.3660084,0,1,0.41646596789360046,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,3,12,27,Georgia Tech,Florida State,0.6048009,0.3951991,1,0,0.6508480906486511,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,12,27,Florida State,Georgia Tech,0.5635209,0.4364791,1,0,0.41156327724456787,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,2,12,27,Florida State,Georgia Tech,0.5253713,0.4746287,0,1,0.5078546404838562,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,3,11,26,Florida State,Georgia Tech,0.500258,0.499742,1,0,0.8322684168815613,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,11,26,Florida State,Georgia Tech,0.6232566,0.3767434,1,0,0.42450466752052307,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,2,11,26,Florida State,Georgia Tech,0.5920392,0.4079608,0,1,0.5082301497459412,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,3,10,25,Florida State,Georgia Tech,0.576313,0.423687,1,0,0.7246540188789368,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,10,25,Georgia Tech,Florida State,0.5129438,0.4870562,0,1,0.3767750859260559,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,2,10,25,Georgia Tech,Florida State,0.4575946,0.5424054,1,0,0.6429147720336914,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,3,9,24,Georgia Tech,Florida State,0.411364,0.588636,1,0,0.8129646182060242,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,9,24,Florida State,Georgia Tech,0.5763832,0.4236168,0,1,0.4198056161403656,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,2,8,23,Florida State,Georgia Tech,0.5891305,0.4108695,0,1,0.339762806892395,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,3,8,23,Florida State,Georgia Tech,0.5977463,0.4022537,0,1,0.09534259885549545,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,7,22,Florida State,Georgia Tech,0.6159232,0.3840768,0,1,0.42677146196365356,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,2,7,22,Florida State,Georgia Tech,0.6019291,0.3980709,1,0,0.5053737759590149,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,3,6,21,Florida State,Georgia Tech,0.5563256,0.4436744,1,0,0.8157325983047485,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,6,21,Georgia Tech,Florida State,0.4747934,0.5252066,1,0,0.35237401723861694,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,5,20,Georgia Tech,Florida State,0.5339809,0.4660191,0,1,0.4189670979976654,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,2,4,19,Georgia Tech,Florida State,0.4917785,0.5082215,1,0,0.521651029586792,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,4,19,Georgia Tech,Florida State,0.6076379,0.3923621,1,0,0.42802050709724426,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,2,3,18,Georgia Tech,Florida State,0.6094695,0.3905305,0,1,0.3836500346660614,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,3,18,Georgia Tech,Florida State,0.6469401,0.3530599,1,0,0.40934768319129944,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,2,2,17,Georgia Tech,Florida State,0.6624618,0.3375382,0,1,0.298528254032135,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,3,1,16,Georgia Tech,Florida State,0.5629948,0.4370052,1,0,0.7984766960144043,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,1,16,Georgia Tech,Florida State,0.6758002,0.3241998,0,1,0.3997213840484619,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,2,0,15,Georgia Tech,Florida State,0.6745715,0.3254285,0,1,0.35233283042907715,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,14,14,Georgia Tech,Florida State,0.7560792,0.2439208,0,1,0.1567012220621109,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,14,14,Florida State,Georgia Tech,0.1876175,0.8123825,1,0,0.43698742985725403,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,14,14,Florida State,Georgia Tech,0.2247858,0.7752142,0,1,0.4722035229206085,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,2,13,13,Florida State,Georgia Tech,0.1991504,0.8008496,0,1,0.618393063545227,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,3,12,12,Florida State,Georgia Tech,0.1610745,0.8389255,1,0,0.8415050506591797,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,12,12,Florida State,Georgia Tech,0.247355,0.752645,1,0,0.46697482466697693,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,2,11,11,Florida State,Georgia Tech,0.2162,0.7838,1,0,0.558579683303833,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,11,11,Florida State,Georgia Tech,0.2873413,0.7126587,0,1,0.4683096706867218,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,2,10,10,Florida State,Georgia Tech,0.2701883,0.7298117,0,1,0.5259782075881958,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,3,10,10,Florida State,Georgia Tech,0.226822,0.773178,1,0,0.7541823983192444,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,4,10,10,Florida State,Georgia Tech,0.1674641,0.8325359,1,0,0.8647158741950989,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,9,9,Florida State,Georgia Tech,0.3287868,0.6712132,0,1,0.41331666707992554,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,2,8,8,Florida State,Georgia Tech,0.2817554,0.7182446,1,0,0.6783820390701294,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,3,7,7,Florida State,Georgia Tech,0.2500743,0.7499257,0,1,0.7977200150489807,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,4,7,7,Florida State,Georgia Tech,0.1857889,0.8142111,1,0,0.8511769771575928,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,6,6,Florida State,Georgia Tech,0.4559872,0.5440128,0,1,0.04935407638549805,Mike Norvell,ACC,52,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2024,1,1,6,6,Georgia Tech,Florida State,0.5547308,0.4452692,1,0,0.4043605327606201,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,2,5,5,Georgia Tech,Florida State,0.5533693,0.4466307,0,1,0.42452967166900635,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,3,4,4,Georgia Tech,Florida State,0.5034276,0.4965724,1,0,0.826424777507782,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,3,3,Georgia Tech,Florida State,0.6573853,0.3426147,0,1,0.37632355093955994,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,2,3,3,Georgia Tech,Florida State,0.7054185,0.2945815,0,1,0.28049853444099426,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,2,2,Georgia Tech,Florida State,0.7525671,0.2474329,0,1,0.4428938031196594,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,2,1,1,Georgia Tech,Florida State,0.8025002,0.1974998,0,1,0.47576454281806946,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,3,1,1,Georgia Tech,Florida State,0.8633566,0.1366434,0,1,0.07019901275634766,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,1,1,Georgia Tech,Florida State,0.9008627,0.0991373,0,1,0.29791390895843506,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,2,0,0,Georgia Tech,Florida State,0.905343,0.094657,0,1,0.22727961838245392,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,3,0,0,Georgia Tech,Florida State,0.8496192,0.1503808,1,0,0.3319697678089142,Brent Key,ACC,59,#003057,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2024,1,1,15,30,Nevada,SMU,0.4903198,0.5096802,0,1,0.4495809078216553,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,2,15,30,Nevada,SMU,0.4599038,0.5400962,0,1,0.5571210384368896,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,3,15,30,Nevada,SMU,0.4476017,0.5523983,1,0,0.7689711451530457,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,1,14,29,SMU,Nevada,0.5268392,0.4731608,0,1,0.44379723072052,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,2,13,28,SMU,Nevada,0.5264372,0.4735628,1,0,0.4621184170246124,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,13,28,Nevada,SMU,0.5330484,0.4669516,0,1,0.44185566902160645,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,2,13,28,Nevada,SMU,0.5572883,0.4427117,0,1,0.35083436965942383,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,1,13,28,Nevada,SMU,0.5843939,0.4156061,1,0,0.44868022203445435,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,2,13,28,Nevada,SMU,0.5523826,0.4476174,1,0,0.4936996102333069,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,3,13,28,Nevada,SMU,0.5366581,0.4633419,1,0,0.8203951716423035,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,1,10,25,SMU,Nevada,0.4785874,0.5214126,0,1,0.3269071578979492,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,2,10,25,SMU,Nevada,0.4925432,0.5074568,0,1,0.3797869384288788,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,10,25,SMU,Nevada,0.5240967,0.4759033,1,0,0.42226943373680115,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,2,10,25,SMU,Nevada,0.486336,0.513664,1,0,0.4811696708202362,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,10,25,SMU,Nevada,0.5506083,0.4493917,0,1,0.5398660898208618,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,2,10,25,SMU,Nevada,0.5138975,0.4861025,1,0,0.6234049201011658,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,3,10,25,SMU,Nevada,0.4681774,0.5318226,1,0,0.6739974617958069,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,8,23,Nevada,SMU,0.5429252,0.4570748,1,0,0.43067967891693115,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,2,8,23,Nevada,SMU,0.480784,0.519216,0,1,0.625552773475647,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,1,8,23,Nevada,SMU,0.5819278,0.4180722,0,1,0.44345802068710327,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,2,8,23,Nevada,SMU,0.5616588,0.4383412,0,1,0.5493443608283997,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,3,8,23,Nevada,SMU,0.5331484,0.4668516,1,0,0.8152750730514526,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,1,4,19,SMU,Nevada,0.5020321,0.4979679,1,0,0.38554951548576355,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,2,4,19,SMU,Nevada,0.5699323,0.4300677,0,1,0.2507310211658478,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,4,19,SMU,Nevada,0.5599776,0.4400224,0,1,0.4288361370563507,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,2,4,19,SMU,Nevada,0.5455998,0.4544002,1,0,0.5145884156227112,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,3,4,19,SMU,Nevada,0.5004958,0.4995042,0,1,0.8328949213027954,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,4,2,17,SMU,Nevada,0.4546348,0.5453652,0,1,0.3921321928501129,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,2,17,Nevada,SMU,0.6714691,0.3285309,0,1,0.25728535652160645,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,2,2,17,Nevada,SMU,0.6436384,0.3563616,0,1,0.566569983959198,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,3,1,16,Nevada,SMU,0.6442041,0.3557959,1,0,0.770183265209198,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,1,0,15,SMU,Nevada,0.3671872,0.6328128,1,0,0.44742316007614136,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,0,15,SMU,Nevada,0.412813,0.587187,0,1,0.4370384216308594,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,2,15,15,SMU,Nevada,0.3544762,0.6455238,0,1,0.6945810317993164,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,3,15,15,SMU,Nevada,0.3213497,0.6786503,1,0,0.767208456993103,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,15,15,SMU,Nevada,0.4337486,0.5662514,1,0,0.3722081184387207,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,13,13,SMU,Nevada,0.5304044,0.4695956,0,1,0.2442118376493454,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,12,12,SMU,Nevada,0.5977535,0.4022465,0,1,0.05169200897216797,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,12,12,Nevada,SMU,0.4584214,0.5415786,1,0,0.44963979721069336,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,2,12,12,Nevada,SMU,0.4266058,0.5733942,0,1,0.5332675576210022,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,3,12,12,Nevada,SMU,0.3982204,0.6017796,0,1,0.8630542755126953,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,1,12,12,Nevada,SMU,0.4959898,0.5040102,0,1,0.4504210948944092,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,1,12,12,Nevada,SMU,0.5368309,0.4631691,1,0,0.4052809178829193,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,2,12,12,Nevada,SMU,0.5143962,0.4856038,0,1,0.4772816002368927,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,3,12,12,Nevada,SMU,0.5223707,0.4776293,0,1,0.23490411043167114,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,1,8,8,SMU,Nevada,0.5381888,0.4618112,0,1,0.4516666531562805,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,2,8,8,SMU,Nevada,0.5131286,0.4868714,1,0,0.6114691495895386,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,3,8,8,SMU,Nevada,0.4759701,0.5240299,1,0,0.8517510294914246,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,7,7,Nevada,SMU,0.5843168,0.4156832,0,1,0.46566683053970337,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,2,6,6,Nevada,SMU,0.5042812,0.4957188,1,0,0.6114657521247864,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,3,6,6,Nevada,SMU,0.49609,0.50391,0,1,0.6540540456771851,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,4,5,5,Nevada,SMU,0.4445795,0.5554205,0,1,0.6781370639801025,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,1,5,5,SMU,Nevada,0.6335607,0.3664393,1,0,0.4899771213531494,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,5,5,SMU,Nevada,0.6777727,0.3222273,1,0,0.47631990909576416,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,2,5,5,SMU,Nevada,0.6476932,0.3523068,1,0,0.6640394330024719,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,3,5,5,SMU,Nevada,0.6162197,0.3837803,0,1,0.7866539359092712,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,4,4,Nevada,SMU,0.3306983,0.6693017,0,1,0.4064623713493347,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,2,4,4,Nevada,SMU,0.3545577,0.6454423,0,1,0.28348594903945923,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,3,2,2,Nevada,SMU,0.4663953,0.5336047,1,0,0.14981110394001007,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,1,2,2,Nevada,SMU,0.5441589,0.4558411,0,1,0.5849186182022095,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,2,2,2,Nevada,SMU,0.5377977,0.4622023,0,1,0.5205105543136597,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,3,2,2,Nevada,SMU,0.5097022,0.4902978,0,1,0.7615854144096375,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,1,2,2,Nevada,SMU,0.5606815,0.4393185,0,1,0.4282452166080475,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,2,2,2,Nevada,SMU,0.553509,0.446491,1,0,0.4431299567222595,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,3,0,0,Nevada,SMU,0.5252832,0.4747168,1,0,0.8881479501724243,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,1,0,0,SMU,Nevada,0.3245078,0.6754922,0,1,0.10881086438894272,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,15,30,SMU,Nevada,0.2339722,0.7660278,1,0,0.41789913177490234,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,2,15,30,SMU,Nevada,0.2116405,0.7883595,1,0,0.5766367316246033,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,15,30,SMU,Nevada,0.2809967,0.7190033,1,0,0.41886618733406067,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,2,15,30,SMU,Nevada,0.25093,0.74907,1,0,0.4960266351699829,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,15,30,SMU,Nevada,0.3096521,0.6903479,1,0,0.4187186658382416,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,15,30,SMU,Nevada,0.3658848,0.6341152,1,0,0.41279083490371704,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,2,15,30,SMU,Nevada,0.340143,0.659857,0,1,0.47107580304145813,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,3,15,30,SMU,Nevada,0.328515,0.671485,0,1,0.6631014943122864,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,12,27,Nevada,SMU,0.6717197,0.3282803,0,1,0.36659857630729675,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,2,12,27,Nevada,SMU,0.6430913,0.3569087,1,0,0.5760515332221985,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,1,12,27,Nevada,SMU,0.7222807,0.2777193,0,1,0.4007219970226288,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,2,12,27,Nevada,SMU,0.6180339,0.3819661,1,0,0.6042446494102478,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,3,12,27,Nevada,SMU,0.6497685,0.3502315,0,1,0.8273453116416931,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,1,12,27,Nevada,SMU,0.7479662,0.2520338,1,0,0.41628924012184143,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,2,12,27,Nevada,SMU,0.7212916,0.2787084,0,1,0.49469253420829773,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,3,12,27,Nevada,SMU,0.7013553,0.2986447,1,0,0.8234590888023376,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,1,12,27,Nevada,SMU,0.7757927,0.2242073,0,1,0.40853628516197205,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,2,12,27,Nevada,SMU,0.7931511,0.2068489,0,1,0.22392861545085907,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,3,12,27,Nevada,SMU,0.7820494,0.2179506,1,0,0.08543380349874496,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,1,12,27,Nevada,SMU,0.8042351,0.1957649,0,1,0.33895185589790344,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,2,12,27,Nevada,SMU,0.7869743,0.2130257,0,1,0.578191876411438,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,1,12,27,Nevada,SMU,0.8360083,0.1639917,0,1,0.1545005440711975,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,2,3,18,Nevada,SMU,0.8556815,0.1443185,0,1,0.05851740017533302,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,1,3,18,SMU,Nevada,0.1027863,0.8972137,1,0,0.5248464941978455,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,2,17,SMU,Nevada,0.1530169,0.8469831,0,1,0.5028872489929199,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,2,17,SMU,Nevada,0.1778514,0.8221486,1,0,0.49857333302497864,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,2,17,SMU,Nevada,0.1994939,0.8005061,0,1,0.49781596660614014,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,2,2,17,SMU,Nevada,0.1857568,0.8142432,1,0,0.5788838267326355,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,2,17,SMU,Nevada,0.194306,0.805694,1,0,0.6184943318367004,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,2,2,17,SMU,Nevada,0.1747029,0.8252971,1,0,0.7244589924812317,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,3,0,15,SMU,Nevada,0.1323425,0.8676575,1,0,0.8172079920768738,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,14,14,Nevada,SMU,0.9118842,0.0881158,0,1,0.3101336658000946,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,2,14,14,Nevada,SMU,0.9007814,0.0992186,1,0,0.5563705563545227,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,3,14,14,Nevada,SMU,0.9192648,0.0807352,0,1,0.10367371886968613,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,1,14,14,Nevada,SMU,0.9252557,0.0747443,0,1,0.30958864092826843,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,2,14,14,Nevada,SMU,0.928054,0.071946,1,0,0.2809653878211975,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,1,14,14,Nevada,SMU,0.9399883,0.0600117,1,0,0.29860708117485046,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,2,14,14,Nevada,SMU,0.9333536,0.0666464,1,0,0.4193030893802643,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,3,14,14,Nevada,SMU,0.8991456,0.1008544,1,0,0.6619061231613159,Jeff Choate,Mountain West,2440,#002d62,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2024,1,1,10,10,SMU,Nevada,0.0596574,0.9403426,0,1,0.40394818782806396,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,2,10,10,SMU,Nevada,0.0712193,0.9287807,0,1,0.28839418292045593,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,3,10,10,SMU,Nevada,0.0600418,0.9399582,1,0,0.40782150626182556,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,10,10,SMU,Nevada,0.1374958,0.8625042,0,1,0.5837729573249817,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,2,8,8,SMU,Nevada,0.1697585,0.8302415,1,0,0.3345741033554077,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,3,8,8,SMU,Nevada,0.1447638,0.8552362,0,1,0.12723368406295776,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,8,8,SMU,Nevada,0.1820696,0.8179304,0,1,0.38054344058036804,Rhett Lashlee,ACC,2567,#354ca1,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2024,1,1,15,30,New Mexico,Montana State,0.4903198,0.5096802,1,0,0.4495809078216553,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,14,29,New Mexico,Montana State,0.5422727,0.4577273,0,1,0.45867669582366943,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,2,14,29,New Mexico,Montana State,0.5382889,0.4617111,1,0,0.5317861437797546,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,14,29,New Mexico,Montana State,0.6053136,0.3946864,0,1,0.4602886736392975,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,2,13,28,New Mexico,Montana State,0.6013089,0.3986911,1,0,0.5026744604110718,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,3,13,28,New Mexico,Montana State,0.5645637,0.4354363,1,0,0.7613018751144409,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,7,22,New Mexico,Montana State,0.7570159,0.2429841,0,1,0.4022996425628662,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,2,6,21,New Mexico,Montana State,0.7372856,0.2627144,0,1,0.5655599236488342,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,3,6,21,New Mexico,Montana State,0.718903,0.281097,1,0,0.835317075252533,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,5,20,New Mexico,Montana State,0.8535423,0.1464577,1,0,0.42561888694763184,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,2,5,20,New Mexico,Montana State,0.8418673,0.1581327,0,1,0.4807678163051605,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,3,4,19,New Mexico,Montana State,0.8213891,0.1786109,1,0,0.7859981060028076,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,2,17,New Mexico,Montana State,0.8649935,0.1350065,1,0,0.4214491844177246,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,2,1,16,New Mexico,Montana State,0.8612342,0.1387658,0,1,0.49026861786842346,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,1,16,New Mexico,Montana State,0.8856125,0.1143875,1,0,0.43951910734176636,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,2,0,15,New Mexico,Montana State,0.8964292,0.1035708,0,1,0.3103981912136078,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,0,15,New Mexico,Montana State,0.8965724,0.1034276,1,0,0.4605739414691925,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,14,14,New Mexico,Montana State,0.9054429,0.0945571,1,0,0.39746543765068054,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,14,14,New Mexico,Montana State,0.9111011,0.0888989,0,1,0.328901082277298,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,2,13,13,New Mexico,Montana State,0.9071566,0.0928434,1,0,0.6206691265106201,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,10,10,New Mexico,Montana State,0.859107,0.140893,0,1,0.40516775846481323,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,2,10,10,New Mexico,Montana State,0.8358004,0.1641996,1,0,0.6564816236495972,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,3,9,9,New Mexico,Montana State,0.8348577,0.1651423,1,0,0.8267401456832886,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,4,4,New Mexico,Montana State,0.645669,0.354331,1,0,0.41567981243133545,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,2,4,4,New Mexico,Montana State,0.6386544,0.3613456,0,1,0.5083938241004944,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,3,3,New Mexico,Montana State,0.6679435,0.3320565,1,0,0.42033496499061584,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,2,3,3,New Mexico,Montana State,0.6812829,0.3187171,0,1,0.33832818269729614,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,2,2,New Mexico,Montana State,0.6912027,0.3087973,1,0,0.4726596176624298,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,2,2,New Mexico,Montana State,0.7095327,0.2904673,1,0,0.5067636966705322,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,2,2,2,New Mexico,Montana State,0.6978434,0.3021566,1,0,0.6184941530227661,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,1,1,New Mexico,Montana State,0.7019159,0.2980841,0,1,0.585416316986084,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,2,1,1,New Mexico,Montana State,0.7050583,0.2949417,0,1,0.6687739491462708,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,0,0,New Mexico,Montana State,0.8281981,0.1718019,0,1,0.17107820510864258,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,8,23,New Mexico,Montana State,0.966775,0.033225,0,1,0.3551882207393646,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,7,22,New Mexico,Montana State,0.9719214,0.0280786,1,0,0.3781604766845703,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,2,6,21,New Mexico,Montana State,0.9715598,0.0284402,0,1,0.4245677590370178,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,6,21,New Mexico,Montana State,0.9804227,0.0195773,0,1,0.37210485339164734,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,2,5,20,New Mexico,Montana State,0.9801424,0.0198576,0,1,0.3707093894481659,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,3,4,19,New Mexico,Montana State,0.9737771,0.0262229,1,0,0.7070241570472717,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,13,13,New Mexico,Montana State,0.8653401,0.1346599,1,0,0.2774564325809479,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,2,13,13,New Mexico,Montana State,0.8885725,0.1114275,0,1,0.17545455694198608,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,12,12,New Mexico,Montana State,0.8968539,0.1031461,0,1,0.28843703866004944,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,11,11,New Mexico,Montana State,0.9276338,0.0723662,0,1,0.23746401071548462,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,2,11,11,New Mexico,Montana State,0.9259743,0.0740257,0,1,0.29399657249450684,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,3,10,10,New Mexico,Montana State,0.907744,0.092256,0,1,0.572449803352356,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,6,6,New Mexico,Montana State,0.9439018,0.0560982,0,1,0.20647966861724854,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,2,5,5,New Mexico,Montana State,0.9434149,0.0565851,0,1,0.33416375517845154,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,3,5,5,New Mexico,Montana State,0.9336359,0.0663641,1,0,0.48696407675743103,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,4,4,New Mexico,Montana State,0.624023,0.375977,1,0,0.3762146532535553,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,2,3,3,New Mexico,Montana State,0.6670715,0.3329285,0,1,0.2362402230501175,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,1,3,3,New Mexico,Montana State,0.7393677,0.2606323,0,1,0.24980923533439636,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,2,2,2,New Mexico,Montana State,0.7549602,0.2450398,0,1,0.3410224914550781,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,3,2,2,New Mexico,Montana State,0.7229292,0.2770708,1,0,0.7052494287490845,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2024,1,2,0,0,New Mexico,Montana State,0.0365583,0.9634417,1,0,0.7774931192398071,Bronco Mendenhall,Mountain West,167,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
