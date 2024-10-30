@@ -2,7 +2,7 @@ Class,season,player,logo,team,mascot,conference_abbrev,rating,y10,player_receivi
 2025,2022,Travis Hunter,Jackson State,Jackson State,NA,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2027,2024,Jeremiah Smith,Ohio State,Ohio State,Buckeyes,Big Ten,,star,circle-check,circle-check,circle-xmark,circle-check,circle-check,circle-check,circle-check,circle-xmark
 2027,2024,Cam Coleman,Auburn,Auburn,Tigers,SEC,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-check,circle-xmark
-2027,2024,Ryan Williams,Alabama,Alabama,Crimson Tide,SEC,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-check,circle-check,circle-check,circle-xmark
+2027,2024,Ryan Williams,Alabama,Alabama,Crimson Tide,SEC,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-check,circle-check,circle-check,circle-check
 2025,2020,Julian Fleming,Ohio State,Ohio State,Buckeyes,Big Ten,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2025,2022,Luther Burden III,Missouri,Missouri,Tigers,SEC,,star,circle-check,circle-check,circle-check,circle-check,circle-check,circle-check,circle-check,circle-check
 2026,2023,Zachariah Branch,USC,USC,Trojans,Pac-12,,star,circle-check,circle-check,circle-check,circle-check,circle-check,circle-check,circle-check,circle-check
@@ -190,7 +190,7 @@ Class,season,player,logo,team,mascot,conference_abbrev,rating,y10,player_receivi
 2026,2023,DeAndre Moore Jr.,Texas,Texas,Longhorns,Big 12,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2027,2024,Courtney Crutchfield,Missouri,Missouri,Tigers,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2020,2015,Van Jefferson,Ole Miss,Ole Miss,Rebels,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
-2027,2024,Drelon Miller,Colorado,Colorado,Buffaloes,Big 12,,star,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-xmark,circle-xmark
+2027,2024,Drelon Miller,Colorado,Colorado,Buffaloes,Big 12,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-check,circle-xmark
 2020,2016,Marquez Callaway,Tennessee,Tennessee,Volunteers,SEC,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2025,2022,Tobias Merriweather,Notre Dame,Notre Dame,Fighting Irish,FBS,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2025,2020,Kobe Hudson,Auburn,Auburn,Tigers,SEC,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
@@ -419,7 +419,7 @@ Class,season,player,logo,team,mascot,conference_abbrev,rating,y10,player_receivi
 2023,2018,Michael Wilson,Stanford,Stanford,Cardinal,Pac-12,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-check,circle-check
 2026,2023,Adam Hopkins,Colorado,Colorado,Buffaloes,Pac-12,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2027,2024,Mazeo Bennett,South Carolina,South Carolina,Gamecocks,SEC,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-check,circle-xmark
-2027,2024,Emanuel Ross,Syracuse,Syracuse,Orange,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
+2027,2024,Emanuel Ross,Syracuse,Syracuse,Orange,ACC,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2027,2024,Parker Livingstone,Texas,Texas,Longhorns,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2026,2023,Joshua Manning,Missouri,Missouri,Tigers,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2027,2024,Josiah Brown,Penn State,Penn State,Nittany Lions,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
