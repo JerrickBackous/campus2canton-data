@@ -2,7 +2,7 @@ Class,season,player,logo,team,mascot,conference_abbrev,rating,y10,player_receivi
 2025,2022,Travis Hunter,Jackson State,Jackson State,NA,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2027,2024,Jeremiah Smith,Ohio State,Ohio State,Buckeyes,Big Ten,,star,circle-check,circle-check,circle-xmark,circle-check,circle-check,circle-check,circle-check,circle-xmark
 2027,2024,Cam Coleman,Auburn,Auburn,Tigers,SEC,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-check,circle-xmark
-2027,2024,Ryan Williams,Alabama,Alabama,Crimson Tide,SEC,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-check,circle-check,circle-check,circle-check
+2027,2024,Ryan Williams,Alabama,Alabama,Crimson Tide,SEC,,star,circle-check,circle-check,circle-xmark,circle-check,circle-check,circle-check,circle-check,circle-check
 2025,2020,Julian Fleming,Ohio State,Ohio State,Buckeyes,Big Ten,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2025,2022,Luther Burden III,Missouri,Missouri,Tigers,SEC,,star,circle-check,circle-check,circle-check,circle-check,circle-check,circle-check,circle-check,circle-check
 2026,2023,Zachariah Branch,USC,USC,Trojans,Pac-12,,star,circle-check,circle-check,circle-check,circle-check,circle-check,circle-check,circle-check,circle-check
@@ -298,7 +298,7 @@ Class,season,player,logo,team,mascot,conference_abbrev,rating,y10,player_receivi
 2025,2022,Jayden Gibson,Oklahoma,Oklahoma,Sooners,Big 12,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2025,2022,Mehki Flowers,Penn State,Penn State,Nittany Lions,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2023,2020,Marvin Mims,Oklahoma,Oklahoma,Sooners,Big 12,,star,circle-check,circle-check,circle-xmark,circle-check,circle-xmark,circle-check,circle-check,circle-check
-2027,2024,Elijah Moore,Florida State,Florida State,Seminoles,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
+2027,2024,Elijah Moore,Florida State,Florida State,Seminoles,ACC,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2024,2020,J.J. Evans,Auburn,Auburn,Tigers,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2027,2024,Nick Marsh,Michigan State,Michigan State,Spartans,Big Ten,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-check,circle-xmark
 2019,2016,Dillon Mitchell,Oregon,Oregon,Ducks,Pac-12,,star,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-check
@@ -378,7 +378,7 @@ Class,season,player,logo,team,mascot,conference_abbrev,rating,y10,player_receivi
 2020,2016,Bryan Edwards,South Carolina,South Carolina,Gamecocks,SEC,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-check,circle-xmark
 2027,2024,Ashton Bethel-Roman,Texas A&M,Texas A&M,Aggies,SEC,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2026,2023,Malik Elzy,Illinois,Illinois,Fighting Illini,Big Ten,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
-2027,2024,Malcolm Simmons,Auburn,Auburn,Tigers,SEC,,star,circle-check,circle-check,circle-xmark,circle-check,circle-xmark,circle-check,circle-check,circle-xmark
+2027,2024,Malcolm Simmons,Auburn,Auburn,Tigers,SEC,,star,circle-check,circle-check,circle-xmark,circle-xmark,circle-xmark,circle-check,circle-check,circle-xmark
 2026,2023,Taeshaun Lyons,Washington,Washington,Huskies,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2025,2019,Khafre Brown,North Carolina,North Carolina,Tar Heels,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
 2026,2023,Jaren Hamilton,Alabama,Alabama,Crimson Tide,NA,,poop,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark,circle-xmark
